@@ -1,16 +1,39 @@
-import React from 'react'
+import React, { useState, useEffect } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
-import { X, Volume2, VolumeX, Music, Settings, RotateCcw } from 'lucide-react'
+import { X, Volume2, VolumeX, Music, Settings, RotateCcw, Maximize, Minimize } from 'lucide-react'
 import useAudioStore from '../../store/useAudioStore'
 import useLevelStore from '../../store/useLevelStore'
 import useLanguageStore from '../../store/useLanguageStore'
 import { i18n } from '../../utils/i18n'
+
+const toggleFullscreen = () => {
+  if (document.fullscreenElement || document.webkitFullscreenElement) {
+    const exit = document.exitFullscreen || document.webkitExitFullscreen
+    if (exit) exit.call(document).catch(() => {})
+  } else {
+    const el = document.documentElement
+    const req = el.requestFullscreen || el.webkitRequestFullscreen || el.msRequestFullscreen
+    if (req) req.call(el).catch(() => {})
+  }
+}
 
 export default function SettingsModal({ isOpen, onClose }) {
   const { sfxEnabled, bgmEnabled, voiceEnabled, toggleSfx, toggleBgm, toggleVoice } = useAudioStore()
   const { resetProgress } = useLevelStore()
   const { language, setLanguage } = useLanguageStore()
   const t = i18n[language]
+  const [isFullscreen, setIsFullscreen] = useState(false)
+
+  useEffect(() => {
+    const update = () => setIsFullscreen(!!document.fullscreenElement || !!document.webkitFullscreenElement)
+    document.addEventListener('fullscreenchange', update)
+    document.addEventListener('webkitfullscreenchange', update)
+    update()
+    return () => {
+      document.removeEventListener('fullscreenchange', update)
+      document.removeEventListener('webkitfullscreenchange', update)
+    }
+  }, [])
 
   const handleReset = () => {
     if (confirm(t.CONFIRM_RESET)) {
@@ -57,9 +80,15 @@ export default function SettingsModal({ isOpen, onClose }) {
                 icon={sfxEnabled ? <Volume2 /> : <VolumeX style={{ opacity: 0.4 }} />}
                 label={t.SFX} enabled={sfxEnabled} onToggle={toggleSfx} 
               />
-              <ToggleRow 
+              <ToggleRow
                 icon={voiceEnabled ? <Volume2 /> : <VolumeX style={{ opacity: 0.4 }} />}
-                label={t.VOICE} enabled={voiceEnabled} onToggle={toggleVoice} 
+                label={t.VOICE} enabled={voiceEnabled} onToggle={toggleVoice}
+              />
+              <ToggleRow
+                icon={isFullscreen ? <Minimize /> : <Maximize />}
+                label={language === 'en' ? 'Fullscreen' : 'เต็มจอ'}
+                enabled={isFullscreen}
+                onToggle={toggleFullscreen}
               />
 
               {/* Language Switcher */}

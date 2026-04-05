@@ -6,9 +6,20 @@ import { SkyFullBackground } from '../theme/SkyBackground'
 import GummyButton from './shared/GummyButton'
 import PipCat from './characters/PipCat'
 
+const enterFullscreen = () => {
+  const el = document.documentElement
+  const req = el.requestFullscreen || el.webkitRequestFullscreen || el.msRequestFullscreen
+  if (req) req.call(el).catch(() => {})
+}
+
 export default function StartScreen({ onStart }) {
   const { language } = useLanguageStore()
   const t = i18n[language]
+
+  const handleStart = () => {
+    enterFullscreen()
+    onStart()
+  }
 
   return (
     <div style={{ position: 'relative', width: '100%', height: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', background: 'transparent', overflow: 'hidden' }}>
@@ -32,7 +43,7 @@ export default function StartScreen({ onStart }) {
 
         {/* Start Button */}
         <div style={{ marginTop: '6vmin' }}>
-          <GummyButton variant="yellow" size="lg" onClick={onStart}>
+          <GummyButton variant="yellow" size="lg" onClick={handleStart}>
             <span style={{ fontSize: 'var(--h3)', padding: '1vmin 4vmin' }}>{t.START_GAME}</span>
           </GummyButton>
         </div>

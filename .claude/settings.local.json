@@ -11,7 +11,8 @@
       "Bash(powershell.exe:*)",
       "Bash(python3 -c ':*)",
       "Bash(python3:*)",
-      "Bash(grep -E \"\\\\.\\(js|json\\)$\")"
+      "Bash(grep -E \"\\\\.\\(js|json\\)$\")",
+      "Bash(npx gh-pages:*)"
     ]
   }
 }
