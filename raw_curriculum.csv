@@ -1,0 +1,4 @@
+World,Level,ThemeId,Num1,Num2,Ans,MissingField,IntroEN,IntroTH
+1,1,candy,5,3,8,ans,"Pip found some colorful candies! Can you help count how many there are in total?","พิพเจอขนมหลากสี! ช่วยนับหน่อยว่ามีทั้งหมดกี่ชิ้นจ๊ะ?"
+1,2,space,4,2,6,num1,"The Starship needs 4 fuel crystals to blast off, but Pip only has 2. How many more does he need?","ยานอวกาศต้องการคริสตัลเชื้อเพลิง 4 อัน แต่พิพมีแค่ 2 อันเอง ต้องหาเพิ่มอีกกี่อันดี?"
+2,1,ocean,7,3,10,ans,"A friendly octopus collected 7 shells. If he finds 3 more, how many will he have?","ปลาหมึกยักษ์เก็บเปลือกหอยได้ 7 อัน ถ้าเขาหาได้อีก 3 อัน เขาจะมีทั้งหมดกี่อันจ๊ะ?"

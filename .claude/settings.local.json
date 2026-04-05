@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create:*)",
+      "Bash(npm install:*)",
+      "Bash(npx vite:*)",
+      "Bash(rm -rf src/components src/hooks src/utils src/assets src/data src/App.jsx src/main.jsx src/index.css)",
+      "Bash(mkdir -p src/components/shared src/components/stages src/components/themes src/components/characters src/components/items src/utils src/data src/hooks src/assets/backgrounds src/assets/characters src/assets/materials)",
+      "Bash(node scripts/build-curriculum.js)",
+      "Bash(node -e ':*)",
+      "Bash(powershell.exe:*)",
+      "Bash(python3 -c ':*)",
+      "Bash(python3:*)",
+      "Bash(grep -E \"\\\\.\\(js|json\\)$\")"
+    ]
+  }
+}

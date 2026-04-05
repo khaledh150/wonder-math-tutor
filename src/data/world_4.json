@@ -1,0 +1,1388 @@
+[
+  {
+    "id": 121,
+    "level": 121,
+    "math": {
+      "num1": 7,
+      "num2": 10,
+      "ans": 70
+    },
+    "narrative": {
+      "en": "Mother buys 7 trays of eggs. Each tray has 10 eggs. How many eggs does she buy in total?",
+      "th": "แม่ซื้อไข่ไก่ 7 แผง แผงละ 10 ฟอง แม่ซื้อไข่ไก่ทั้งหมดกี่ฟอง"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🥚",
+      "item2": "🍽️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each"
+      ],
+      "keywordsTH": [],
+      "item1Label": "trays of eggs",
+      "item2Label": "eggs",
+      "emoji1": "🥚",
+      "emoji2": "🍽️"
+    }
+  },
+  {
+    "id": 122,
+    "level": 122,
+    "math": {
+      "num1": 5,
+      "num2": 6,
+      "ans": 30
+    },
+    "narrative": {
+      "en": "There are 5 plates of snacks. Each plate has 6 snacks. How many snacks are there in total?",
+      "th": "มีจานขนม 5 ใบ ใบละ 6 ชิ้น มีขนมทั้งหมดกี่ชิ้น"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🥨",
+      "item2": "🍽️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each"
+      ],
+      "keywordsTH": [],
+      "item1Label": "plates of snacks",
+      "item2Label": "snacks",
+      "emoji1": "🥨",
+      "emoji2": "🍽️"
+    }
+  },
+  {
+    "id": 123,
+    "level": 123,
+    "math": {
+      "num1": 3,
+      "num2": 9,
+      "ans": 27
+    },
+    "narrative": {
+      "en": "A garden has 3 rows of mango trees. Each row has 9 trees. How many mango trees are there in total?",
+      "th": "สวนมีต้นมะม่วง 3 แถว แถวละ 9 ต้น สวนมีต้นมะม่วงทั้งหมดกี่ต้น"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🥭",
+      "item2": "🌳"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each",
+        "rows of"
+      ],
+      "keywordsTH": [
+        "แถวละ"
+      ],
+      "item1Label": "rows of mango trees",
+      "item2Label": "trees",
+      "emoji1": "🥭",
+      "emoji2": "🌳"
+    }
+  },
+  {
+    "id": 124,
+    "level": 124,
+    "math": {
+      "num1": 8,
+      "num2": 2,
+      "ans": 16
+    },
+    "narrative": {
+      "en": "There are 8 children. Each child has 2 pencils. How many pencils do the children have in total?",
+      "th": "มีเด็ก 8 คน คนละ 2 ดินสอ เด็กทั้งหมดมีดินสอกี่แท่ง"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "✏️",
+      "item2": "🖊️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each"
+      ],
+      "keywordsTH": [],
+      "item1Label": "children",
+      "item2Label": "pencils",
+      "emoji1": "✏️",
+      "emoji2": "🖊️"
+    }
+  },
+  {
+    "id": 125,
+    "level": 125,
+    "math": {
+      "num1": 9,
+      "num2": 12,
+      "ans": 108
+    },
+    "narrative": {
+      "en": "A drink shop has 9 crates of orange juice. Each crate has 12 bottles. How many bottles of orange juice are there in total?",
+      "th": "ร้านขายน้ำมีลังน้ำส้ม 9 ลัง ลังละ 12 ขวด ร้านมีน้ำส้มทั้งหมดกี่ขวด"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🧃",
+      "item2": "🍊"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each"
+      ],
+      "keywordsTH": [],
+      "item1Label": "crates of orange juice",
+      "item2Label": "bottles",
+      "isLargeNumber": true,
+      "emoji1": "🧃",
+      "emoji2": "🍊"
+    }
+  },
+  {
+    "id": 126,
+    "level": 126,
+    "math": {
+      "num1": 6,
+      "num2": 7,
+      "ans": 42
+    },
+    "narrative": {
+      "en": "There are 6 rows of chairs. Each row has 7 chairs. How many chairs are there in total?",
+      "th": "มีเก้าอี้ 6 แถว แถวละ 7 ตัว มีเก้าอี้ทั้งหมดกี่ตัว"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🪑",
+      "item2": "🪑"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each",
+        "rows of"
+      ],
+      "keywordsTH": [
+        "แถวละ"
+      ],
+      "item1Label": "rows of chairs",
+      "item2Label": "chairs",
+      "emoji1": "🪑",
+      "emoji2": "🪑"
+    }
+  },
+  {
+    "id": 127,
+    "level": 127,
+    "math": {
+      "num1": 4,
+      "num2": 9,
+      "ans": 36
+    },
+    "narrative": {
+      "en": "Mother makes 4 boxes of cookies. Each box has 9 cookies. How many cookies does she make in total?",
+      "th": "แม่ทำคุกกี้ 4 กล่อง กล่องละ 9 ชิ้น แม่ทำคุกกี้ทั้งหมดกี่ชิ้น"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🍪",
+      "item2": "📦"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each",
+        "boxes of"
+      ],
+      "keywordsTH": [
+        "กล่องละ"
+      ],
+      "item1Label": "boxes of cookies",
+      "item2Label": "cookies",
+      "emoji1": "🍪",
+      "emoji2": "📦"
+    }
+  },
+  {
+    "id": 128,
+    "level": 128,
+    "math": {
+      "num1": 5,
+      "num2": 8,
+      "ans": 40
+    },
+    "narrative": {
+      "en": "A farm has 5 chicken coops. Each coop has 8 chickens. How many chickens are there on the farm in total?",
+      "th": "ฟาร์มมีคอกไก่ 5 คอก คอกละ 8 ตัว ฟาร์มมีไก่ทั้งหมดกี่ตัว"
+    },
+    "theme": {
+      "id": "beach",
+      "item1": "🐔",
+      "item2": "🐔"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each"
+      ],
+      "keywordsTH": [],
+      "item1Label": "chicken coops",
+      "item2Label": "chickens",
+      "emoji1": "🐔",
+      "emoji2": "🐔"
+    }
+  },
+  {
+    "id": 129,
+    "level": 129,
+    "math": {
+      "num1": 7,
+      "num2": 6,
+      "ans": 42
+    },
+    "narrative": {
+      "en": "There are 7 shelves of comic books. Each shelf has 6 books. How many comic books are there in total?",
+      "th": "มีหนังสือการ์ตูน 7 ชั้น ชั้นละ 6 เล่ม มีหนังสือการ์ตูนทั้งหมดกี่เล่ม"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "📖",
+      "item2": "📚"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each"
+      ],
+      "keywordsTH": [],
+      "item1Label": "shelves of comic books",
+      "item2Label": "books",
+      "emoji1": "📖",
+      "emoji2": "📚"
+    }
+  },
+  {
+    "id": 130,
+    "level": 130,
+    "math": {
+      "num1": 3,
+      "num2": 15,
+      "ans": 45
+    },
+    "narrative": {
+      "en": "There are 3 packs of water bottles. Each pack has 15 bottles. How many bottles are there in total?",
+      "th": "มีขวดน้ำ 3 แพ็ก แพ็กละ 15 ขวด มีขวดน้ำทั้งหมดกี่ขวด"
+    },
+    "theme": {
+      "id": "beach",
+      "item1": "💧",
+      "item2": "🍶"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each"
+      ],
+      "keywordsTH": [],
+      "item1Label": "packs of water bottles",
+      "item2Label": "bottles",
+      "isLargeNumber": true,
+      "emoji1": "💧",
+      "emoji2": "🍶"
+    }
+  },
+  {
+    "id": 131,
+    "level": 131,
+    "math": {
+      "num1": 6,
+      "num2": 10,
+      "ans": 60
+    },
+    "narrative": {
+      "en": "The teacher sticks 6 sheets of stickers. Each sheet has 10 stickers. How many stickers does the teacher stick in total?",
+      "th": "ครูติดสติกเกอร์ 6 แผ่น แผ่นละ 10 ดวง ครูติดสติกเกอร์ทั้งหมดกี่ดวง"
+    },
+    "theme": {
+      "id": "beach",
+      "item1": "⭐",
+      "item2": "⭐"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each"
+      ],
+      "keywordsTH": [],
+      "item1Label": "sheets of stickers",
+      "item2Label": "stickers",
+      "emoji1": "⭐",
+      "emoji2": "⭐"
+    }
+  },
+  {
+    "id": 132,
+    "level": 132,
+    "math": {
+      "num1": 8,
+      "num2": 4,
+      "ans": 32
+    },
+    "narrative": {
+      "en": "A fruit shop has 8 bags of oranges. Each bag has 4 oranges. How many oranges are there in total?",
+      "th": "ร้านขายผลไม้มีส้ม 8 ถุง ถุงละ 4 ลูก ร้านมีส้มทั้งหมดกี่ลูก"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🍊",
+      "item2": "🍎"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each",
+        "bags of"
+      ],
+      "keywordsTH": [
+        "ถุงละ"
+      ],
+      "item1Label": "bags of oranges",
+      "item2Label": "oranges",
+      "emoji1": "🍊",
+      "emoji2": "🍎"
+    }
+  },
+  {
+    "id": 133,
+    "level": 133,
+    "math": {
+      "num1": 9,
+      "num2": 3,
+      "ans": 27
+    },
+    "narrative": {
+      "en": "There are 9 bags of snacks. Each bag has 3 snacks. How many snacks are there in total?",
+      "th": "มีถุงขนม 9 ถุง ถุงละ 3 ชิ้น มีขนมทั้งหมดกี่ชิ้น"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🥨",
+      "item2": "🛍️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each",
+        "bags of"
+      ],
+      "keywordsTH": [
+        "ถุงละ"
+      ],
+      "item1Label": "bags of snacks",
+      "item2Label": "snacks",
+      "emoji1": "🥨",
+      "emoji2": "🛍️"
+    }
+  },
+  {
+    "id": 135,
+    "level": 135,
+    "math": {
+      "num1": 4,
+      "num2": 12,
+      "ans": 48
+    },
+    "narrative": {
+      "en": "There are 4 fish tanks. Each tank has 12 fish. How many fish are there in total?",
+      "th": "มีตู้ปลา 4 ตู้ ตู้ละ 12 ตัว มีปลาทั้งหมดกี่ตัว"
+    },
+    "theme": {
+      "id": "beach",
+      "item1": "🐟",
+      "item2": "🐟"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each"
+      ],
+      "keywordsTH": [],
+      "item1Label": "fish tanks",
+      "item2Label": "fish",
+      "isLargeNumber": true,
+      "emoji1": "🐟",
+      "emoji2": "🐟"
+    }
+  },
+  {
+    "id": 136,
+    "level": 136,
+    "math": {
+      "num1": 7,
+      "num2": 5,
+      "ans": 35
+    },
+    "narrative": {
+      "en": "There are 7 rows of balloons. Each row has 5 balloons. How many balloons are there in total?",
+      "th": "มีแถวลูกโป่ง 7 แถว แถวละ 5 ใบ มีลูกโป่งทั้งหมดกี่ใบ"
+    },
+    "theme": {
+      "id": "beach",
+      "item1": "🎈",
+      "item2": "⚽"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each",
+        "rows of"
+      ],
+      "keywordsTH": [
+        "แถวละ"
+      ],
+      "item1Label": "rows of balloons",
+      "item2Label": "balloons",
+      "emoji1": "🎈",
+      "emoji2": "⚽"
+    }
+  },
+  {
+    "id": 137,
+    "level": 137,
+    "math": {
+      "num1": 6,
+      "num2": 8,
+      "ans": 48
+    },
+    "narrative": {
+      "en": "Mother buys 6 boxes of colored pencils. Each box has 8 pencils. How many colored pencils does she buy in total?",
+      "th": "แม่ซื้อดินสอสี 6 กล่อง กล่องละ 8 แท่ง แม่ซื้อดินสอสีทั้งหมดกี่แท่ง"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "🖍️",
+      "item2": "✏️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each",
+        "boxes of"
+      ],
+      "keywordsTH": [
+        "กล่องละ"
+      ],
+      "item1Label": "boxes of colored pencils",
+      "item2Label": "pencils",
+      "emoji1": "🖍️",
+      "emoji2": "✏️"
+    }
+  },
+  {
+    "id": 138,
+    "level": 138,
+    "math": {
+      "num1": 9,
+      "num2": 6,
+      "ans": 54
+    },
+    "narrative": {
+      "en": "A sandwich shop makes 9 trays of sandwiches. Each tray has 6 sandwiches. How many sandwiches does the shop make in total?",
+      "th": "ร้านทำแซนด์วิช 9 ถาด ถาดละ 6 ชิ้น ร้านทำแซนด์วิชทั้งหมดกี่ชิ้น"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "🥪",
+      "item2": "🍽️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each"
+      ],
+      "keywordsTH": [],
+      "item1Label": "trays of sandwiches",
+      "item2Label": "sandwiches",
+      "emoji1": "🥪",
+      "emoji2": "🍽️"
+    }
+  },
+  {
+    "id": 139,
+    "level": 139,
+    "math": {
+      "num1": 8,
+      "num2": 4,
+      "ans": 32
+    },
+    "narrative": {
+      "en": "There are 8 boxes of toy cars. Each box has 4 toy cars. How many toy cars are there in total?",
+      "th": "มีรถของเล่น 8 กล่อง กล่องละ 4 คัน มีรถของเล่นทั้งหมดกี่คัน"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "🚗",
+      "item2": "🧸"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each",
+        "boxes of"
+      ],
+      "keywordsTH": [
+        "กล่องละ"
+      ],
+      "item1Label": "boxes of toy cars",
+      "item2Label": "toy cars",
+      "emoji1": "🚗",
+      "emoji2": "🧸"
+    }
+  },
+  {
+    "id": 140,
+    "level": 140,
+    "math": {
+      "num1": 6,
+      "num2": 5,
+      "ans": 30
+    },
+    "narrative": {
+      "en": "There are 6 groups of children. Each group has 5 children. How many children are there in total?",
+      "th": "มีเด็ก 6 กลุ่ม กลุ่มละ 5 คน มีเด็กทั้งหมดกี่คน"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "🧒",
+      "item2": "🧒"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each",
+        "groups of"
+      ],
+      "keywordsTH": [
+        "กลุ่มละ"
+      ],
+      "item1Label": "groups of children",
+      "item2Label": "children",
+      "emoji1": "🧒",
+      "emoji2": "🧒"
+    }
+  },
+  {
+    "id": 141,
+    "level": 141,
+    "math": {
+      "num1": 7,
+      "num2": 9,
+      "ans": 63
+    },
+    "narrative": {
+      "en": "There are 7 boxes of chalk. Each box has 9 pieces of chalk. How many pieces of chalk are there in total?",
+      "th": "มีชอล์ก 7 กล่อง กล่องละ 9 แท่ง มีชอล์กทั้งหมดกี่แท่ง"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "🖍️",
+      "item2": "📦"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each",
+        "boxes of"
+      ],
+      "keywordsTH": [
+        "กล่องละ"
+      ],
+      "item1Label": "boxes of chalk",
+      "item2Label": "pieces of chalk",
+      "emoji1": "🖍️",
+      "emoji2": "📦"
+    }
+  },
+  {
+    "id": 142,
+    "level": 142,
+    "math": {
+      "num1": 6,
+      "num2": 7,
+      "ans": 42
+    },
+    "narrative": {
+      "en": "A flower garden has 6 plots of roses. Each plot has 7 roses. How many roses are there in total?",
+      "th": "สวนดอกไม้มีดอกกุหลาบ 6 แปลง แปลงละ 7 ดอก มีดอกกุหลาบทั้งหมดกี่ดอก"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🌸",
+      "item2": "🌹"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each"
+      ],
+      "keywordsTH": [],
+      "item1Label": "plots of roses",
+      "item2Label": "roses",
+      "emoji1": "🌸",
+      "emoji2": "🌹"
+    }
+  },
+  {
+    "id": 143,
+    "level": 143,
+    "math": {
+      "num1": 5,
+      "num2": 12,
+      "ans": 60
+    },
+    "narrative": {
+      "en": "An ice cream shop makes 5 trays of ice cream. Each tray has 12 cups. How many cups of ice cream are made in total?",
+      "th": "ร้านไอศกรีมทำไอศกรีม 5 ถาด ถาดละ 12 ถ้วย ทำไอศกรีมทั้งหมดกี่ถ้วย"
+    },
+    "theme": {
+      "id": "candy",
+      "item1": "🍦",
+      "item2": "🍽️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each"
+      ],
+      "keywordsTH": [],
+      "item1Label": "trays of ice cream",
+      "item2Label": "cups",
+      "isLargeNumber": true,
+      "emoji1": "🍦",
+      "emoji2": "🍽️"
+    }
+  },
+  {
+    "id": 144,
+    "level": 144,
+    "math": {
+      "num1": 3,
+      "num2": 20,
+      "ans": 60
+    },
+    "narrative": {
+      "en": "There are 3 stacks of storybooks. Each stack has 20 books. How many storybooks are there in total?",
+      "th": "มีหนังสือนิทาน 3 กอง กองละ 20 เล่ม มีหนังสือนิทานทั้งหมดกี่เล่ม"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "📚",
+      "item2": "📦"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each"
+      ],
+      "keywordsTH": [],
+      "item1Label": "stacks of storybooks",
+      "item2Label": "books",
+      "isLargeNumber": true,
+      "emoji1": "📚",
+      "emoji2": "📦"
+    }
+  },
+  {
+    "id": 145,
+    "level": 145,
+    "math": {
+      "num1": 8,
+      "num2": 9,
+      "ans": 72
+    },
+    "narrative": {
+      "en": "There are 8 baskets of fruit. Each basket has 9 fruits. How many fruits are there in total?",
+      "th": "มีผลไม้ 8 ตะกร้า ตะกร้าละ 9 ลูก มีผลไม้ทั้งหมดกี่ลูก"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🍎",
+      "item2": "🧺"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each"
+      ],
+      "keywordsTH": [],
+      "item1Label": "baskets of fruit",
+      "item2Label": "fruits",
+      "emoji1": "🍎",
+      "emoji2": "🧺"
+    }
+  },
+  {
+    "id": 146,
+    "level": 146,
+    "math": {
+      "num1": 4,
+      "num2": 25,
+      "ans": 100
+    },
+    "narrative": {
+      "en": "There are 4 bags of rice. Each bag weighs 25 kilograms. How many kilograms of rice are there in total?",
+      "th": "มีถุงข้าวสาร 4 ถุง ถุงละ 25 กิโลกรัม มีข้าวสารทั้งหมดกี่กิโลกรัม"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "🍚",
+      "item2": "🛍️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each",
+        "bags of"
+      ],
+      "keywordsTH": [
+        "ถุงละ"
+      ],
+      "item1Label": "bags of rice",
+      "item2Label": "kilograms",
+      "isLargeNumber": true,
+      "emoji1": "🍚",
+      "emoji2": "🛍️"
+    }
+  },
+  {
+    "id": 147,
+    "level": 147,
+    "math": {
+      "num1": 5,
+      "num2": 6,
+      "ans": 30
+    },
+    "narrative": {
+      "en": "A classroom has 5 rows of tables. Each row has 6 tables. How many tables are there in total?",
+      "th": "ห้องเรียนมีโต๊ะ 5 แถว แถวละ 6 ตัว มีโต๊ะทั้งหมดกี่ตัว"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🪑",
+      "item2": "🪑"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each",
+        "rows of"
+      ],
+      "keywordsTH": [
+        "แถวละ"
+      ],
+      "item1Label": "rows of tables",
+      "item2Label": "tables",
+      "emoji1": "🪑",
+      "emoji2": "🪑"
+    }
+  },
+  {
+    "id": 148,
+    "level": 148,
+    "math": {
+      "num1": 9,
+      "num2": 10,
+      "ans": 90
+    },
+    "narrative": {
+      "en": "There are 9 boxes of pencils. Each box has 10 pencils. How many pencils are there in total?",
+      "th": "มีดินสอ 9 กล่อง กล่องละ 10 แท่ง มีดินสอทั้งหมดกี่แท่ง"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "✏️",
+      "item2": "🖊️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each",
+        "boxes of"
+      ],
+      "keywordsTH": [
+        "กล่องละ"
+      ],
+      "item1Label": "boxes of pencils",
+      "item2Label": "pencils",
+      "emoji1": "✏️",
+      "emoji2": "🖊️"
+    }
+  },
+  {
+    "id": 149,
+    "level": 149,
+    "math": {
+      "num1": 7,
+      "num2": 8,
+      "ans": 56
+    },
+    "narrative": {
+      "en": "There are 7 bags of bread. Each bag has 8 pieces. How many pieces of bread are there in total?",
+      "th": "มีขนมปัง 7 ถุง ถุงละ 8 ชิ้น มีขนมปังทั้งหมดกี่ชิ้น"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🍞",
+      "item2": "🛍️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each",
+        "bags of"
+      ],
+      "keywordsTH": [
+        "ถุงละ"
+      ],
+      "item1Label": "bags of bread",
+      "item2Label": "pieces",
+      "emoji1": "🍞",
+      "emoji2": "🛍️"
+    }
+  },
+  {
+    "id": 150,
+    "level": 150,
+    "math": {
+      "num1": 6,
+      "num2": 20,
+      "ans": 120
+    },
+    "narrative": {
+      "en": "There are 6 crates of milk bottles. Each crate has 20 bottles. How many bottles of milk are there in total?",
+      "th": "มีขวดนม 6 ลัง ลังละ 20 ขวด มีขวดนมทั้งหมดกี่ขวด"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🥛",
+      "item2": "🍶"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each"
+      ],
+      "keywordsTH": [],
+      "item1Label": "crates of milk bottles",
+      "item2Label": "bottles",
+      "isLargeNumber": true,
+      "emoji1": "🥛",
+      "emoji2": "🍶"
+    }
+  },
+  {
+    "id": 151,
+    "level": 151,
+    "math": {
+      "num1": 4,
+      "num2": 15,
+      "ans": 60
+    },
+    "narrative": {
+      "en": "A toy shop has 4 shelves of dolls. Each shelf has 15 dolls. How many dolls are there in total?",
+      "th": "ร้านขายของเล่นมีตุ๊กตา 4 ชั้น ชั้นละ 15 ตัว มีตุ๊กตาทั้งหมดกี่ตัว"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🧸",
+      "item2": "📦"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each"
+      ],
+      "keywordsTH": [],
+      "item1Label": "shelves of dolls",
+      "item2Label": "dolls",
+      "isLargeNumber": true,
+      "emoji1": "🧸",
+      "emoji2": "📦"
+    }
+  },
+  {
+    "id": 152,
+    "level": 152,
+    "math": {
+      "num1": 8,
+      "num2": 4,
+      "ans": 32
+    },
+    "narrative": {
+      "en": "There are 8 rows of students. Each row has 4 students. How many students are there in total?",
+      "th": "มีนักเรียน 8 แถว แถวละ 4 คน มีนักเรียนทั้งหมดกี่คน"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "🧒",
+      "item2": "🧒"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each",
+        "rows of"
+      ],
+      "keywordsTH": [
+        "แถวละ"
+      ],
+      "item1Label": "rows of students",
+      "item2Label": "students",
+      "emoji1": "🧒",
+      "emoji2": "🧒"
+    }
+  },
+  {
+    "id": 153,
+    "level": 153,
+    "math": {
+      "num1": 9,
+      "num2": 7,
+      "ans": 63
+    },
+    "narrative": {
+      "en": "Mother makes 9 plates of snacks. Each plate has 7 snacks. How many snacks does she make in total?",
+      "th": "แม่ทำขนม 9 จาน จานละ 7 ชิ้น แม่ทำขนมทั้งหมดกี่ชิ้น"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🥨",
+      "item2": "🍽️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each"
+      ],
+      "keywordsTH": [],
+      "item1Label": "plates of snacks",
+      "item2Label": "snacks",
+      "emoji1": "🥨",
+      "emoji2": "🍽️"
+    }
+  },
+  {
+    "id": 154,
+    "level": 154,
+    "math": {
+      "num1": 6,
+      "num2": 9,
+      "ans": 54
+    },
+    "narrative": {
+      "en": "There are 6 vegetable plots. Each plot has 9 plants. How many vegetable plants are there in total?",
+      "th": "มีปลูกผัก 6 แปลง แปลงละ 9 ต้น มีต้นผักทั้งหมดกี่ต้น"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🌱",
+      "item2": "🪑"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each"
+      ],
+      "keywordsTH": [],
+      "item1Label": "vegetable plots",
+      "item2Label": "plants",
+      "emoji1": "🌱",
+      "emoji2": "🪑"
+    }
+  },
+  {
+    "id": 155,
+    "level": 155,
+    "math": {
+      "num1": 10,
+      "num2": 6,
+      "ans": 60
+    },
+    "narrative": {
+      "en": "There are 10 bags of candies. Each bag has 6 candies. How many candies are there in total?",
+      "th": "มีลูกอม 10 ถุง ถุงละ 6 เม็ด มีลูกอมทั้งหมดกี่เม็ด"
+    },
+    "theme": {
+      "id": "candy",
+      "item1": "🍬",
+      "item2": "🛍️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each",
+        "bags of"
+      ],
+      "keywordsTH": [
+        "ถุงละ"
+      ],
+      "item1Label": "bags of candies",
+      "item2Label": "candies",
+      "emoji1": "🍬",
+      "emoji2": "🛍️"
+    }
+  },
+  {
+    "id": 156,
+    "level": 156,
+    "math": {
+      "num1": 5,
+      "num2": 24,
+      "ans": 120
+    },
+    "narrative": {
+      "en": "A shop has 5 packs of fruit juice. Each pack has 24 boxes. How many boxes of fruit juice are there in total?",
+      "th": "ร้านมีน้ำผลไม้ 5 แพ็ก แพ็กละ 24 กล่อง ร้านมีน้ำผลไม้ทั้งหมดกี่กล่อง"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🧃",
+      "item2": "🍎"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each",
+        "boxes of"
+      ],
+      "keywordsTH": [],
+      "item1Label": "packs of fruit juice",
+      "item2Label": "boxes",
+      "isLargeNumber": true,
+      "emoji1": "🧃",
+      "emoji2": "🍎"
+    }
+  },
+  {
+    "id": 157,
+    "level": 157,
+    "math": {
+      "num1": 30,
+      "num2": 5,
+      "ans": 6
+    },
+    "narrative": {
+      "en": "There are 30 candies. They are shared equally among 5 children. How many candies does each child get?",
+      "th": "มีลูกอม 30 เม็ด แบ่งให้เด็ก 5 คนเท่า ๆ กัน เด็กคนละกี่เม็ด"
+    },
+    "theme": {
+      "id": "candy",
+      "item1": "🍬",
+      "item2": "🧒"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "share",
+        "equally"
+      ],
+      "keywordsTH": [
+        "แบ่ง",
+        "คนละ"
+      ],
+      "item1Label": "candies",
+      "item2Label": "children",
+      "isLargeNumber": true,
+      "emoji1": "🍬",
+      "emoji2": "🧒"
+    }
+  },
+  {
+    "id": 158,
+    "level": 158,
+    "math": {
+      "num1": 24,
+      "num2": 6,
+      "ans": 4
+    },
+    "narrative": {
+      "en": "The teacher has 24 pencils. She gives them equally to 6 students. How many pencils does each student get?",
+      "th": "ครูมีดินสอ 24 แท่ง แจกให้นักเรียน 6 คนเท่า ๆ กัน นักเรียนคนละกี่แท่ง"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "✏️",
+      "item2": "🖊️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "equally"
+      ],
+      "keywordsTH": [
+        "คนละ",
+        "แจก"
+      ],
+      "item1Label": "pencils",
+      "item2Label": "students",
+      "isLargeNumber": true,
+      "emoji1": "✏️",
+      "emoji2": "🖊️"
+    }
+  },
+  {
+    "id": 159,
+    "level": 159,
+    "math": {
+      "num1": 28,
+      "num2": 4,
+      "ans": 7
+    },
+    "narrative": {
+      "en": "There are 28 oranges. If 4 oranges are put into each bag, how many bags are there?",
+      "th": "มีส้ม 28 ลูก ใส่ถุงถุงละ 4 ลูก จะได้กี่ถุง"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🍊",
+      "item2": "🛍️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [],
+      "keywordsTH": [],
+      "item1Label": "oranges",
+      "item2Label": "oranges  put into each bag",
+      "isLargeNumber": true,
+      "emoji1": "🍊",
+      "emoji2": "🛍️"
+    }
+  },
+  {
+    "id": 160,
+    "level": 160,
+    "math": {
+      "num1": 36,
+      "num2": 6,
+      "ans": 6
+    },
+    "narrative": {
+      "en": "Mother has 36 eggs. If each tray holds 6 eggs, how many trays are needed?",
+      "th": "แม่มีไข่ไก่ 36 ฟอง ใส่แผงแผงละ 6 ฟอง จะได้กี่แผง"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🥚",
+      "item2": "🍽️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [],
+      "keywordsTH": [],
+      "item1Label": "eggs",
+      "item2Label": "eggs",
+      "isLargeNumber": true,
+      "emoji1": "🥚",
+      "emoji2": "🍽️"
+    }
+  },
+  {
+    "id": 161,
+    "level": 161,
+    "math": {
+      "num1": 40,
+      "num2": 8,
+      "ans": 5
+    },
+    "narrative": {
+      "en": "A snack shop has 40 cookies. If 8 cookies are placed on each plate, how many plates are there?",
+      "th": "ร้านขนมมีคุกกี้ 40 ชิ้น แบ่งใส่จานจานละ 8 ชิ้น จะได้กี่จาน"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🍪",
+      "item2": "🥨"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [],
+      "keywordsTH": [
+        "แบ่ง"
+      ],
+      "item1Label": "cookies",
+      "item2Label": "cookies  placed on each plate",
+      "isLargeNumber": true,
+      "emoji1": "🍪",
+      "emoji2": "🥨"
+    }
+  }
+]

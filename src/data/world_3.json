@@ -1,0 +1,1793 @@
+[
+  {
+    "id": 81,
+    "level": 81,
+    "math": {
+      "num1": 70,
+      "num2": 25,
+      "ans": 57,
+      "num3": 38
+    },
+    "narrative": {
+      "en": "Aom has 70 stickers. She gets 25 more stickers from a friend and then uses 38 stickers. How many stickers does Aom have left?",
+      "th": "น้องออมมีสติกเกอร์ 70 แผ่น ได้เพิ่มจากเพื่อน 25 แผ่น แล้วติดไป 38 แผ่น น้องออมเหลือสติกเกอร์กี่แผ่น"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "⭐",
+      "item2": "⭐"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "-"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "more",
+        "gets",
+        "get",
+        "and",
+        "has",
+        "have",
+        "left",
+        "uses",
+        "use"
+      ],
+      "keywordsTH": [
+        "เพิ่ม",
+        "เหลือ"
+      ],
+      "item1Label": "stickers",
+      "item2Label": "stickers from  friend   uses 38 stickers",
+      "isLargeNumber": true,
+      "emoji1": "⭐",
+      "emoji2": "⭐"
+    }
+  },
+  {
+    "id": 82,
+    "level": 82,
+    "math": {
+      "num1": 95,
+      "num2": 27,
+      "ans": 86,
+      "num3": 18
+    },
+    "narrative": {
+      "en": "A farm has 95 ducks. It sells 27 ducks and then buys 18 more ducks. How many ducks are there on the farm now?",
+      "th": "ฟาร์มมีเป็ด 95 ตัว ขายไป 27 ตัว แล้วซื้อมาเพิ่มอีก 18 ตัว ฟาร์มมีเป็ดทั้งหมดกี่ตัว"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🦆",
+      "item2": "🦆"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "+"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "sell",
+        "sells",
+        "more",
+        "and",
+        "buy",
+        "buys",
+        "has"
+      ],
+      "keywordsTH": [
+        "ขาย",
+        "อีก",
+        "เพิ่ม",
+        "ทั้งหมด",
+        "มาเพิ่ม",
+        "ซื้อ"
+      ],
+      "item1Label": "ducks",
+      "item2Label": "ducks   buys 18  ducks",
+      "isLargeNumber": true,
+      "emoji1": "🦆",
+      "emoji2": "🦆"
+    }
+  },
+  {
+    "id": 83,
+    "level": 83,
+    "math": {
+      "num1": 150,
+      "num2": 60,
+      "ans": 125,
+      "num3": 35
+    },
+    "narrative": {
+      "en": "The school canteen prepares 150 lunch boxes. It gives out 60 lunch boxes and then makes 35 more lunch boxes. How many lunch boxes does the canteen have now?",
+      "th": "โรงอาหารทำข้าวกล่อง 150 กล่อง แจกไป 60 กล่อง แล้วทำเพิ่มอีก 35 กล่อง โรงอาหารมีข้าวกล่องกี่กล่อง"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🍱",
+      "item2": "📦"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "+"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "gives",
+        "give",
+        "more",
+        "and",
+        "prepare",
+        "prepares",
+        "have",
+        "makes"
+      ],
+      "keywordsTH": [
+        "อีก",
+        "เพิ่ม"
+      ],
+      "item1Label": "lunch boxes",
+      "item2Label": "lunch boxes   makes 35  lunch boxes",
+      "isLargeNumber": true,
+      "emoji1": "🍱",
+      "emoji2": "📦"
+    }
+  },
+  {
+    "id": 84,
+    "level": 84,
+    "math": {
+      "num1": 64,
+      "num2": 19,
+      "ans": 17,
+      "num3": 28
+    },
+    "narrative": {
+      "en": "Ton has 64 marbles. He loses 19 marbles, and then his father gives him 28 more marbles. How many marbles does Ton have now?",
+      "th": "ต้นมีลูกแก้ว 64 ลูก ทำหายไป 19 ลูก แล้วคุณพ่อให้อีก 28 ลูก ต้นมีลูกแก้วกี่ลูก"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🔮",
+      "item2": "🔮"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "-"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "gives",
+        "give",
+        "lose",
+        "loses"
+      ],
+      "keywordsTH": [
+        "ให้",
+        "หาย"
+      ],
+      "item1Label": "marbles",
+      "item2Label": "marbles",
+      "isLargeNumber": true,
+      "emoji1": "🔮",
+      "emoji2": "🔮"
+    }
+  },
+  {
+    "id": 85,
+    "level": 85,
+    "math": {
+      "num1": 110,
+      "num2": 48,
+      "ans": 87,
+      "num3": 25
+    },
+    "narrative": {
+      "en": "A drink shop has 110 bottles of orange juice. It sells 48 bottles and then receives 25 more bottles. How many bottles of orange juice does the shop have now?",
+      "th": "ร้านขายน้ำมีน้ำส้ม 110 ขวด ขายไป 48 ขวด แล้วรับของมาเพิ่มอีก 25 ขวด ร้านมีน้ำส้มกี่ขวด"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🧃",
+      "item2": "🍊"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "+"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "sell",
+        "sells",
+        "more",
+        "receives",
+        "and",
+        "has",
+        "have"
+      ],
+      "keywordsTH": [
+        "ขาย",
+        "อีก",
+        "เพิ่ม",
+        "มาเพิ่ม"
+      ],
+      "item1Label": "bottles of orange juice",
+      "item2Label": "bottles   receives 25  bottles",
+      "isLargeNumber": true,
+      "emoji1": "🧃",
+      "emoji2": "🍊"
+    }
+  },
+  {
+    "id": 86,
+    "level": 86,
+    "math": {
+      "num1": 180,
+      "num2": 55,
+      "ans": 215,
+      "num3": 20
+    },
+    "narrative": {
+      "en": "The library has 180 storybooks. 55 books are borrowed, and then 20 more books are added. How many storybooks does the library have now?",
+      "th": "ห้องสมุดมีหนังสือนิทาน 180 เล่ม ยืมออกไป 55 เล่ม แล้วนำหนังสือมาเพิ่มอีก 20 เล่ม ห้องสมุดมีหนังสือนิทานกี่เล่ม"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "📚",
+      "item2": "📔"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "-"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "more",
+        "added",
+        "add",
+        "and",
+        "has",
+        "have",
+        "borrowed"
+      ],
+      "keywordsTH": [
+        "อีก",
+        "เพิ่ม",
+        "มาเพิ่ม",
+        "ยืม"
+      ],
+      "item1Label": "storybooks",
+      "item2Label": "books  borrowed",
+      "isLargeNumber": true,
+      "emoji1": "📚",
+      "emoji2": "📔"
+    }
+  },
+  {
+    "id": 87,
+    "level": 87,
+    "math": {
+      "num1": 90,
+      "num2": 26,
+      "ans": 79,
+      "num3": 15
+    },
+    "narrative": {
+      "en": "Nid collects 90 shells. She gives 26 shells to her friend and then collects 15 more shells. How many shells does Nid have now?",
+      "th": "นิดเก็บเปลือกหอยได้ 90 อัน ให้เพื่อนไป 26 อัน แล้วเก็บเพิ่มอีก 15 อัน นิดมีเปลือกหอยกี่อัน"
+    },
+    "theme": {
+      "id": "beach",
+      "item1": "🐚",
+      "item2": "🐚"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "+"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "gives",
+        "give",
+        "more",
+        "and",
+        "collect",
+        "collects",
+        "have"
+      ],
+      "keywordsTH": [
+        "ให้",
+        "อีก",
+        "เพิ่ม",
+        "เก็บ"
+      ],
+      "item1Label": "shells",
+      "item2Label": "shells to her friend   collects 15  shells",
+      "isLargeNumber": true,
+      "emoji1": "🐚",
+      "emoji2": "🐚"
+    }
+  },
+  {
+    "id": 88,
+    "level": 88,
+    "math": {
+      "num1": 75,
+      "num2": 18,
+      "ans": 97,
+      "num3": 40
+    },
+    "narrative": {
+      "en": "A toy shop has 75 dolls. It sells 18 dolls and then receives 40 more dolls. How many dolls does the shop have now?",
+      "th": "ร้านของเล่นมีตุ๊กตา 75 ตัว ขายไป 18 ตัว แล้วรับเพิ่มมาอีก 40 ตัว ตอนนี้ร้านมีตุ๊กตากี่ตัว"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🧸",
+      "item2": "🧸"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "+"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "sell",
+        "sells",
+        "more",
+        "receives",
+        "and",
+        "has",
+        "have"
+      ],
+      "keywordsTH": [
+        "ขาย",
+        "อีก",
+        "เพิ่ม"
+      ],
+      "item1Label": "dolls",
+      "item2Label": "dolls   receives 40  dolls",
+      "isLargeNumber": true,
+      "emoji1": "🧸",
+      "emoji2": "🧸"
+    }
+  },
+  {
+    "id": 89,
+    "level": 89,
+    "math": {
+      "num1": 300,
+      "num2": 120,
+      "ans": 235,
+      "num3": 185
+    },
+    "narrative": {
+      "en": "Mother has 300 baht. She gets 120 more baht and then spends 185 baht on shopping. How much money does she have left?",
+      "th": "แม่มีเงิน 300 บาท ได้เงินเพิ่ม 120 บาท แล้วซื้อของไป 185 บาท แม่เหลือเงินกี่บาท"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "🖊️",
+      "item2": "💰"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "-"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "more",
+        "gets",
+        "get",
+        "and",
+        "has",
+        "have",
+        "left",
+        "spend",
+        "spends"
+      ],
+      "keywordsTH": [
+        "เพิ่ม",
+        "ซื้อ",
+        "เหลือ"
+      ],
+      "item1Label": "baht",
+      "item2Label": "baht   spends 185 baht on shopping",
+      "isLargeNumber": true,
+      "emoji1": "🖊️",
+      "emoji2": "💰"
+    }
+  },
+  {
+    "id": 90,
+    "level": 90,
+    "math": {
+      "num1": 45,
+      "num2": 28,
+      "ans": 92,
+      "num3": 19
+    },
+    "narrative": {
+      "en": "There are 45 students on a bus. 28 more students get on the bus, and then 19 students get off. How many students are on the bus now?",
+      "th": "รถบัสมีนักเรียนอยู่ 45 คน รับเพิ่มอีก 28 คน แล้วลงจากรถ 19 คน ตอนนี้บนรถมีนักเรียนกี่คน"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "🧒",
+      "item2": "🐦"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "+"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "more",
+        "get",
+        "and"
+      ],
+      "keywordsTH": [
+        "อีก",
+        "เพิ่ม"
+      ],
+      "item1Label": "students on  bus",
+      "item2Label": "students get on  bus",
+      "isLargeNumber": true,
+      "emoji1": "🧒",
+      "emoji2": "🐦"
+    }
+  },
+  {
+    "id": 91,
+    "level": 91,
+    "math": {
+      "num1": 60,
+      "num2": 22,
+      "ans": 97,
+      "num3": 15
+    },
+    "narrative": {
+      "en": "A playground has 60 balls. The children take 22 balls to play, and then the teacher adds 15 more balls. How many balls are there now?",
+      "th": "สนามเด็กเล่นมีลูกบอล 60 ลูก เด็ก ๆ เอาไปเล่น 22 ลูก แล้วครูเอามาเพิ่มอีก 15 ลูก สนามมีลูกบอลกี่ลูก"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "⚽",
+      "item2": "🧒"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "+"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "more",
+        "add",
+        "and",
+        "has"
+      ],
+      "keywordsTH": [
+        "อีก",
+        "เพิ่ม",
+        "มาเพิ่ม"
+      ],
+      "item1Label": "balls",
+      "item2Label": "balls to play",
+      "isLargeNumber": true,
+      "emoji1": "⚽",
+      "emoji2": "🧒"
+    }
+  },
+  {
+    "id": 92,
+    "level": 92,
+    "math": {
+      "num1": 140,
+      "num2": 35,
+      "ans": 125,
+      "num3": 20
+    },
+    "narrative": {
+      "en": "A fruit garden has 140 oranges. It sells 35 oranges and then collects 20 more oranges. How many oranges are there now?",
+      "th": "สวนผลไม้มีส้ม 140 ลูก เก็บไปขาย 35 ลูก แล้วเก็บเพิ่มจากสวนอีก 20 ลูก สวนผลไม้มีส้มกี่ลูก"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🍊",
+      "item2": "🍎"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "+"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "sell",
+        "sells",
+        "more",
+        "and",
+        "collect",
+        "collects",
+        "has"
+      ],
+      "keywordsTH": [
+        "ขาย",
+        "อีก",
+        "เพิ่ม",
+        "เก็บ"
+      ],
+      "item1Label": "oranges",
+      "item2Label": "oranges   collects 20  oranges",
+      "isLargeNumber": true,
+      "emoji1": "🍊",
+      "emoji2": "🍎"
+    }
+  },
+  {
+    "id": 93,
+    "level": 93,
+    "math": {
+      "num1": 95,
+      "num2": 40,
+      "ans": 73,
+      "num3": 18
+    },
+    "narrative": {
+      "en": "An aunt has 95 snacks. She sells 40 snacks and then makes 18 more snacks. How many snacks does she have left?",
+      "th": "ป้ามีขนม 95 ชิ้น ขายไป 40 ชิ้น แล้วทำเพิ่มอีก 18 ชิ้น ป้าเหลือขนมกี่ชิ้น"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🥨",
+      "item2": "🥨"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "+"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "left",
+        "sell",
+        "sells",
+        "more",
+        "and",
+        "has",
+        "have",
+        "makes"
+      ],
+      "keywordsTH": [
+        "เหลือ",
+        "ขาย",
+        "อีก",
+        "เพิ่ม"
+      ],
+      "item1Label": "snacks",
+      "item2Label": "snacks   makes 18  snacks",
+      "isLargeNumber": true,
+      "emoji1": "🥨",
+      "emoji2": "🥨"
+    }
+  },
+  {
+    "id": 94,
+    "level": 94,
+    "math": {
+      "num1": 80,
+      "num2": 25,
+      "ans": 75,
+      "num3": 30
+    },
+    "narrative": {
+      "en": "Fah has 80 flowers. She gets 25 more flowers and then gives 30 flowers to her teacher. How many flowers does Fah have left?",
+      "th": "ฟ้ามีดอกไม้ 80 ดอก ได้เพิ่มอีก 25 ดอก แล้วให้คุณครู 30 ดอก ฟ้าเหลือดอกไม้กี่ดอก"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🌸",
+      "item2": "🌸"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "-"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "gives",
+        "give",
+        "more",
+        "gets",
+        "get",
+        "and",
+        "has",
+        "have",
+        "left"
+      ],
+      "keywordsTH": [
+        "ให้",
+        "อีก",
+        "เพิ่ม",
+        "เหลือ"
+      ],
+      "item1Label": "flowers",
+      "item2Label": "flowers   gives 30 flowers to her teacher",
+      "isLargeNumber": true,
+      "emoji1": "🌸",
+      "emoji2": "🌸"
+    }
+  },
+  {
+    "id": 95,
+    "level": 95,
+    "math": {
+      "num1": 90,
+      "num2": 36,
+      "ans": 104,
+      "num3": 50
+    },
+    "narrative": {
+      "en": "A stationery shop has 90 notebooks. It sells 36 notebooks and then receives 50 more notebooks. How many notebooks does the shop have now?",
+      "th": "ร้านเครื่องเขียนมีสมุด 90 เล่ม ขายไป 36 เล่ม แล้วรับมาเพิ่มอีก 50 เล่ม ร้านมีสมุดกี่เล่ม"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "📔",
+      "item2": "📚"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "+"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "sell",
+        "sells",
+        "more",
+        "receives",
+        "and",
+        "has",
+        "have"
+      ],
+      "keywordsTH": [
+        "ขาย",
+        "อีก",
+        "เพิ่ม",
+        "มาเพิ่ม"
+      ],
+      "item1Label": "notebooks",
+      "item2Label": "notebooks   receives 50  notebooks",
+      "isLargeNumber": true,
+      "emoji1": "📔",
+      "emoji2": "📚"
+    }
+  },
+  {
+    "id": 96,
+    "level": 96,
+    "math": {
+      "num1": 72,
+      "num2": 20,
+      "ans": 107,
+      "num3": 15
+    },
+    "narrative": {
+      "en": "A box has 72 colored pencils. 20 pencils are given to friends, and then 15 more pencils are bought. How many colored pencils are there now?",
+      "th": "กล่องดินสอสีมี 72 แท่ง แจกให้เพื่อน 20 แท่ง แล้วซื้อเพิ่มอีก 15 แท่ง ตอนนี้มีดินสอสีทั้งหมดกี่แท่ง"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "🖍️",
+      "item2": "✏️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "+"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "give",
+        "more",
+        "and",
+        "bought",
+        "has"
+      ],
+      "keywordsTH": [
+        "ให้",
+        "อีก",
+        "เพิ่ม",
+        "ทั้งหมด",
+        "ซื้อ"
+      ],
+      "item1Label": "colored pencils",
+      "item2Label": "pencils  given to friends",
+      "isLargeNumber": true,
+      "emoji1": "🖍️",
+      "emoji2": "✏️"
+    }
+  },
+  {
+    "id": 97,
+    "level": 97,
+    "math": {
+      "num1": 58,
+      "num2": 17,
+      "ans": 84,
+      "num3": 9
+    },
+    "narrative": {
+      "en": "An aquarium has 58 fish. 17 new fish are added, and then 9 fish die. How many fish are there now?",
+      "th": "ตู้ปลามีปลา 58 ตัว เพิ่มปลาใหม่อีก 17 ตัว แล้วตายไป 9 ตัว ตอนนี้ตู้ปลามีปลากี่ตัว"
+    },
+    "theme": {
+      "id": "beach",
+      "item1": "🐟",
+      "item2": "🐟"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "+"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "added",
+        "add",
+        "and",
+        "has"
+      ],
+      "keywordsTH": [
+        "อีก",
+        "เพิ่ม"
+      ],
+      "item1Label": "fish",
+      "item2Label": "new fish  added",
+      "isLargeNumber": true,
+      "emoji1": "🐟",
+      "emoji2": "🐟"
+    }
+  },
+  {
+    "id": 98,
+    "level": 98,
+    "math": {
+      "num1": 120,
+      "num2": 33,
+      "ans": 165,
+      "num3": 12
+    },
+    "narrative": {
+      "en": "A zoo has 120 birds. 33 birds fly away, and then 12 more birds come. How many birds are there now?",
+      "th": "สวนสัตว์มีนก 120 ตัว บินหนีไป 33 ตัว แล้วมีนกย้ายมาเพิ่มอีก 12 ตัว สวนสัตว์มีนกกี่ตัว"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🐦",
+      "item2": "🐦"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "+"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "more",
+        "and",
+        "has"
+      ],
+      "keywordsTH": [
+        "อีก",
+        "เพิ่ม",
+        "มาเพิ่ม"
+      ],
+      "item1Label": "birds",
+      "item2Label": "birds fly away",
+      "isLargeNumber": true,
+      "emoji1": "🐦",
+      "emoji2": "🐦"
+    }
+  },
+  {
+    "id": 99,
+    "level": 99,
+    "math": {
+      "num1": 200,
+      "num2": 85,
+      "ans": 325,
+      "num3": 40
+    },
+    "narrative": {
+      "en": "A factory makes 200 toys. It sends 85 toys to sell and then makes 40 more toys. How many toys are left?",
+      "th": "โรงงานทำของเล่น 200 ชิ้น ส่งไปขาย 85 ชิ้น แล้วทำเพิ่มอีก 40 ชิ้น โรงงานเหลือของเล่นกี่ชิ้น"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🧸",
+      "item2": "🐦"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "+"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "more",
+        "and",
+        "makes"
+      ],
+      "keywordsTH": [
+        "อีก",
+        "เพิ่ม"
+      ],
+      "item1Label": "toys",
+      "item2Label": "toys to sell   makes 40  toys",
+      "isLargeNumber": true,
+      "emoji1": "🧸",
+      "emoji2": "🐦"
+    }
+  },
+  {
+    "id": 100,
+    "level": 100,
+    "math": {
+      "num1": 60,
+      "num2": 18,
+      "ans": 103,
+      "num3": 25
+    },
+    "narrative": {
+      "en": "Mother buys 60 cartons of milk. She drinks 18 cartons and then buys 25 more cartons. How many cartons of milk does she have now?",
+      "th": "แม่ซื้อนม 60 กล่อง ดื่มไป 18 กล่อง แล้วซื้อเพิ่มอีก 25 กล่อง แม่มีนมกี่กล่อง"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🥛",
+      "item2": "🚗"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "+"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "more",
+        "and",
+        "buy",
+        "buys",
+        "have"
+      ],
+      "keywordsTH": [
+        "อีก",
+        "เพิ่ม",
+        "ซื้อ"
+      ],
+      "item1Label": "cartons of milk",
+      "item2Label": "cartons   buys 25  cartons",
+      "isLargeNumber": true,
+      "emoji1": "🥛",
+      "emoji2": "🚗"
+    }
+  },
+  {
+    "id": 101,
+    "level": 101,
+    "math": {
+      "num1": 55,
+      "num2": 14,
+      "ans": 78,
+      "num3": 9
+    },
+    "narrative": {
+      "en": "There are 55 birds on a tree. 14 birds fly away, and then 9 more birds come. How many birds are there now?",
+      "th": "ต้นไม้มีนกเกาะ 55 ตัว บินไป 14 ตัว แล้วบินมาเพิ่มอีก 9 ตัว ตอนนี้มีนกเกาะกี่ตัว"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🌳",
+      "item2": "🐦"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "+"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "more",
+        "and"
+      ],
+      "keywordsTH": [
+        "อีก",
+        "เพิ่ม",
+        "มาเพิ่ม"
+      ],
+      "item1Label": "birds on  tree",
+      "item2Label": "birds fly away",
+      "isLargeNumber": true,
+      "emoji1": "🌳",
+      "emoji2": "🐦"
+    }
+  },
+  {
+    "id": 102,
+    "level": 102,
+    "math": {
+      "num1": 80,
+      "num2": 35,
+      "ans": 67,
+      "num3": 22
+    },
+    "narrative": {
+      "en": "A cake shop makes 80 cakes. It sells 35 cakes and then makes 22 more cakes. How many cakes does the shop have now?",
+      "th": "ร้านเค้กทำเค้ก 80 ชิ้น ขายไป 35 ชิ้น แล้วทำเพิ่มอีก 22 ชิ้น ตอนนี้ร้านมีเค้กกี่ชิ้น"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🍰",
+      "item2": "🍰"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "+"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "sell",
+        "sells",
+        "more",
+        "and",
+        "have",
+        "makes"
+      ],
+      "keywordsTH": [
+        "ขาย",
+        "อีก",
+        "เพิ่ม"
+      ],
+      "item1Label": "cakes",
+      "item2Label": "cakes   makes 22  cakes",
+      "isLargeNumber": true,
+      "emoji1": "🍰",
+      "emoji2": "🍰"
+    }
+  },
+  {
+    "id": 103,
+    "level": 103,
+    "math": {
+      "num1": 150,
+      "num2": 50,
+      "ans": 230,
+      "num3": 30
+    },
+    "narrative": {
+      "en": "The children collect 150 bottles. They send 50 bottles for recycling and then collect 30 more bottles. How many bottles are left?",
+      "th": "เด็ก ๆ เก็บขวดน้ำได้ 150 ขวด ส่งไปรีไซเคิล 50 ขวด แล้วเก็บเพิ่มอีก 30 ขวด เด็ก ๆ เหลือขวดน้ำกี่ขวด"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "🧒",
+      "item2": "🍶"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "+"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "more",
+        "and",
+        "collect"
+      ],
+      "keywordsTH": [
+        "อีก",
+        "เพิ่ม",
+        "เก็บ"
+      ],
+      "item1Label": "bottles",
+      "item2Label": "bottles for recycling   collect 30  bottles",
+      "isLargeNumber": true,
+      "emoji1": "🧒",
+      "emoji2": "🍶"
+    }
+  },
+  {
+    "id": 104,
+    "level": 104,
+    "math": {
+      "num1": 18,
+      "num2": 5,
+      "ans": 27,
+      "num3": 4
+    },
+    "narrative": {
+      "en": "A house has 18 windows. 5 windows are closed for repair, and then 4 new windows are installed. How many windows can be used now?",
+      "th": "บ้านหลังหนึ่งมีหน้าต่าง 18 บาน ซ่อมปิดไป 5 บาน แล้วติดตั้งเพิ่มอีก 4 บาน ตอนนี้มีหน้าต่างใช้งานได้กี่บาน"
+    },
+    "theme": {
+      "id": "beach",
+      "item1": "🪟",
+      "item2": "📦"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "+"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "and",
+        "has"
+      ],
+      "keywordsTH": [
+        "อีก",
+        "เพิ่ม"
+      ],
+      "item1Label": "windows",
+      "item2Label": "windows  closed for repair",
+      "isLargeNumber": true,
+      "emoji1": "🪟",
+      "emoji2": "📦"
+    }
+  },
+  {
+    "id": 105,
+    "level": 105,
+    "math": {
+      "num1": 32,
+      "num2": 6,
+      "ans": 42,
+      "num3": 4
+    },
+    "narrative": {
+      "en": "A classroom has 32 students. 6 more students arrive in the morning, and then 4 students go home early. How many students are in the classroom now?",
+      "th": "ห้องเรียนมีนักเรียน 32 คน เช้ามามาเพิ่มอีก 6 คน แล้วกลับบ้านก่อน 4 คน ห้องเรียนมีนักเรียนกี่คน"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "🧒",
+      "item2": "🐦"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "+"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "more",
+        "and",
+        "has"
+      ],
+      "keywordsTH": [
+        "อีก",
+        "เพิ่ม",
+        "มาเพิ่ม"
+      ],
+      "item1Label": "students",
+      "item2Label": "students arrive in  morning",
+      "isLargeNumber": true,
+      "emoji1": "🧒",
+      "emoji2": "🐦"
+    }
+  },
+  {
+    "id": 106,
+    "level": 106,
+    "math": {
+      "num1": 95,
+      "num2": 28,
+      "ans": 107,
+      "num3": 40
+    },
+    "narrative": {
+      "en": "A fruit shop has 95 apples. It sells 28 apples and then receives 40 more apples. How many apples does the shop have now?",
+      "th": "ร้านผลไม้มีแอปเปิล 95 ลูก ขายไป 28 ลูก แล้วรับมาเพิ่มอีก 40 ลูก ร้านมีแอปเปิลกี่ลูก"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🍎",
+      "item2": "🍎"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "+"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "sell",
+        "sells",
+        "more",
+        "receives",
+        "and",
+        "has",
+        "have"
+      ],
+      "keywordsTH": [
+        "ขาย",
+        "อีก",
+        "เพิ่ม",
+        "มาเพิ่ม"
+      ],
+      "item1Label": "apples",
+      "item2Label": "apples   receives 40  apples",
+      "isLargeNumber": true,
+      "emoji1": "🍎",
+      "emoji2": "🍎"
+    }
+  },
+  {
+    "id": 107,
+    "level": 107,
+    "math": {
+      "num1": 130,
+      "num2": 45,
+      "ans": 105,
+      "num3": 20
+    },
+    "narrative": {
+      "en": "A farm has 130 chickens. It sells 45 chickens and then buys 20 more chickens. How many chickens are there now?",
+      "th": "ฟาร์มมีไก่ 130 ตัว ขายไป 45 ตัว แล้วซื้อมาเพิ่มอีก 20 ตัว ฟาร์มมีไก่กี่ตัว"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🐔",
+      "item2": "🐔"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "+"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "sell",
+        "sells",
+        "more",
+        "and",
+        "buy",
+        "buys",
+        "has"
+      ],
+      "keywordsTH": [
+        "ขาย",
+        "อีก",
+        "เพิ่ม",
+        "มาเพิ่ม",
+        "ซื้อ"
+      ],
+      "item1Label": "chickens",
+      "item2Label": "chickens   buys 20  chickens",
+      "isLargeNumber": true,
+      "emoji1": "🐔",
+      "emoji2": "🐔"
+    }
+  },
+  {
+    "id": 108,
+    "level": 108,
+    "math": {
+      "num1": 100,
+      "num2": 37,
+      "ans": 112,
+      "num3": 25
+    },
+    "narrative": {
+      "en": "A box has 100 pieces of chalk. 37 pieces are used, and then 25 more pieces are bought. How many pieces of chalk are there now?",
+      "th": "กล่องชอล์กมีชอล์ก 100 แท่ง ใช้ไป 37 แท่ง แล้วซื้อเพิ่มอีก 25 แท่ง ตอนนี้มีชอล์กกี่แท่ง"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "🖍️",
+      "item2": "📦"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "-"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "more",
+        "and",
+        "bought",
+        "has",
+        "used",
+        "use"
+      ],
+      "keywordsTH": [
+        "อีก",
+        "เพิ่ม",
+        "ซื้อ",
+        "ใช้ไป",
+        "ใช้"
+      ],
+      "item1Label": "pieces of chalk",
+      "item2Label": "pieces  used",
+      "isLargeNumber": true,
+      "emoji1": "🖍️",
+      "emoji2": "📦"
+    }
+  },
+  {
+    "id": 109,
+    "level": 109,
+    "math": {
+      "num1": 250,
+      "num2": 80,
+      "ans": 235,
+      "num3": 95
+    },
+    "narrative": {
+      "en": "Pan has 250 baht. He gets 80 more baht and then spends 95 baht on snacks. How much money does Pan have left?",
+      "th": "น้องปันมีเงิน 250 บาท ได้เพิ่มอีก 80 บาท แล้วซื้อขนมไป 95 บาท น้องปันเหลือเงินกี่บาท"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "🖊️",
+      "item2": "🥨"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "-"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "more",
+        "gets",
+        "get",
+        "and",
+        "has",
+        "have",
+        "left",
+        "spend",
+        "spends"
+      ],
+      "keywordsTH": [
+        "อีก",
+        "เพิ่ม",
+        "ซื้อ",
+        "เหลือ"
+      ],
+      "item1Label": "baht",
+      "item2Label": "baht   spends 95 baht on snacks",
+      "isLargeNumber": true,
+      "emoji1": "🖊️",
+      "emoji2": "🥨"
+    }
+  },
+  {
+    "id": 110,
+    "level": 110,
+    "math": {
+      "num1": 90,
+      "num2": 52,
+      "ans": 68,
+      "num3": 30
+    },
+    "narrative": {
+      "en": "An ice cream shop makes 90 cups of ice cream. It sells 52 cups and then makes 30 more cups. How many cups of ice cream does the shop have now?",
+      "th": "ร้านไอศกรีมทำไอศกรีม 90 ถ้วย ขายไป 52 ถ้วย แล้วทำเพิ่มอีก 30 ถ้วย ร้านมีไอศกรีมกี่ถ้วย"
+    },
+    "theme": {
+      "id": "candy",
+      "item1": "🍦",
+      "item2": "🥤"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "+"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "sell",
+        "sells",
+        "more",
+        "and",
+        "have",
+        "makes"
+      ],
+      "keywordsTH": [
+        "ขาย",
+        "อีก",
+        "เพิ่ม"
+      ],
+      "item1Label": "cups of ice cream",
+      "item2Label": "cups   makes 30  cups",
+      "isLargeNumber": true,
+      "emoji1": "🍦",
+      "emoji2": "🥤"
+    }
+  },
+  {
+    "id": 111,
+    "level": 111,
+    "math": {
+      "num1": 160,
+      "num2": 70,
+      "ans": 205,
+      "num3": 25
+    },
+    "narrative": {
+      "en": "A flower garden has 160 roses. 70 roses are cut and sold, and then 25 new roses bloom. How many roses are left?",
+      "th": "สวนดอกไม้มีดอกกุหลาบ 160 ดอก ตัดไปขาย 70 ดอก แล้วมีดอกใหม่บานเพิ่มอีก 25 ดอก เหลือดอกกุหลาบกี่ดอก"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🌸",
+      "item2": "🌹"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "-"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "and",
+        "has",
+        "left",
+        "sold"
+      ],
+      "keywordsTH": [
+        "อีก",
+        "เพิ่ม",
+        "เหลือ",
+        "ขาย"
+      ],
+      "item1Label": "roses",
+      "item2Label": "roses  cut  sold",
+      "isLargeNumber": true,
+      "emoji1": "🌸",
+      "emoji2": "🌹"
+    }
+  },
+  {
+    "id": 112,
+    "level": 112,
+    "math": {
+      "num1": 140,
+      "num2": 50,
+      "ans": 125,
+      "num3": 35
+    },
+    "narrative": {
+      "en": "A bookstore has 140 comic books. It sells 50 comic books and then receives 35 more comic books. How many comic books does the shop have now?",
+      "th": "ร้านหนังสือมีหนังสือการ์ตูน 140 เล่ม ขายไป 50 เล่ม แล้วรับเพิ่มอีก 35 เล่ม ร้านมีหนังสือการ์ตูนกี่เล่ม"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "📖",
+      "item2": "📚"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "+"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "sell",
+        "sells",
+        "more",
+        "receives",
+        "and",
+        "has",
+        "have"
+      ],
+      "keywordsTH": [
+        "ขาย",
+        "อีก",
+        "เพิ่ม"
+      ],
+      "item1Label": "comic books",
+      "item2Label": "comic books   receives 35  comic books",
+      "isLargeNumber": true,
+      "emoji1": "📖",
+      "emoji2": "📚"
+    }
+  },
+  {
+    "id": 113,
+    "level": 113,
+    "math": {
+      "num1": 110,
+      "num2": 12,
+      "ans": 140,
+      "num3": 18
+    },
+    "narrative": {
+      "en": "A fish farm has 110 tilapia. 12 fish die, and then 18 more fish are added. How many fish are there now?",
+      "th": "ฟาร์มปลามีปลานิล 110 ตัว ตายไป 12 ตัว แล้วซื้อมาเพิ่มอีก 18 ตัว ฟาร์มปลามีปลากี่ตัว"
+    },
+    "theme": {
+      "id": "beach",
+      "item1": "🐟",
+      "item2": "🐟"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "+"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "more",
+        "added",
+        "add",
+        "and",
+        "has"
+      ],
+      "keywordsTH": [
+        "อีก",
+        "เพิ่ม",
+        "มาเพิ่ม",
+        "ซื้อ"
+      ],
+      "item1Label": "tilapia",
+      "item2Label": "fish die",
+      "isLargeNumber": true,
+      "emoji1": "🐟",
+      "emoji2": "🐟"
+    }
+  },
+  {
+    "id": 114,
+    "level": 114,
+    "math": {
+      "num1": 120,
+      "num2": 35,
+      "ans": 175,
+      "num3": 20
+    },
+    "narrative": {
+      "en": "A school has 120 chairs. 35 chairs are moved to another room, and then 20 more chairs are bought. How many chairs are there now?",
+      "th": "โรงเรียนมีเก้าอี้ 120 ตัว ย้ายไปห้องอื่น 35 ตัว แล้วซื้อเพิ่มอีก 20 ตัว โรงเรียนมีเก้าอี้กี่ตัว"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🪑",
+      "item2": "🪑"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "+"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "more",
+        "and",
+        "bought",
+        "has"
+      ],
+      "keywordsTH": [
+        "อีก",
+        "เพิ่ม",
+        "ซื้อ"
+      ],
+      "item1Label": "chairs",
+      "item2Label": "chairs  moved to another room",
+      "isLargeNumber": true,
+      "emoji1": "🪑",
+      "emoji2": "🪑"
+    }
+  },
+  {
+    "id": 115,
+    "level": 115,
+    "math": {
+      "num1": 65,
+      "num2": 28,
+      "ans": 56,
+      "num3": 19
+    },
+    "narrative": {
+      "en": "Mother makes 65 sandwiches. She gives 28 sandwiches to the children and then makes 19 more sandwiches. How many sandwiches does she have now?",
+      "th": "แม่ทำแซนด์วิช 65 ชิ้น แจกให้เด็ก ๆ 28 ชิ้น แล้วทำเพิ่มอีก 19 ชิ้น แม่มีแซนด์วิชกี่ชิ้น"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "🥪",
+      "item2": "🧒"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "+"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "gives",
+        "give",
+        "more",
+        "and",
+        "have",
+        "makes"
+      ],
+      "keywordsTH": [
+        "ให้",
+        "อีก",
+        "เพิ่ม"
+      ],
+      "item1Label": "sandwiches",
+      "item2Label": "sandwiches to  children   makes 19  sandwiches",
+      "isLargeNumber": true,
+      "emoji1": "🥪",
+      "emoji2": "🧒"
+    }
+  },
+  {
+    "id": 116,
+    "level": 116,
+    "math": {
+      "num1": 90,
+      "num2": 27,
+      "ans": 78,
+      "num3": 15
+    },
+    "narrative": {
+      "en": "A toy shop has 90 toy cars. It sells 27 toy cars and then receives 15 more toy cars. How many toy cars does the shop have now?",
+      "th": "ร้านของเล่นมีรถของเล่น 90 คัน ขายไป 27 คัน แล้วรับมาเพิ่มอีก 15 คัน ร้านมีรถของเล่นกี่คัน"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🚗",
+      "item2": "🧸"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "+"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "sell",
+        "sells",
+        "more",
+        "receives",
+        "and",
+        "has",
+        "have"
+      ],
+      "keywordsTH": [
+        "ขาย",
+        "อีก",
+        "เพิ่ม",
+        "มาเพิ่ม"
+      ],
+      "item1Label": "toy cars",
+      "item2Label": "toy cars   receives 15  toy cars",
+      "isLargeNumber": true,
+      "emoji1": "🚗",
+      "emoji2": "🧸"
+    }
+  },
+  {
+    "id": 117,
+    "level": 117,
+    "math": {
+      "num1": 140,
+      "num2": 55,
+      "ans": 115,
+      "num3": 30
+    },
+    "narrative": {
+      "en": "Mother has 140 eggs. She uses 55 eggs and then buys 30 more eggs. How many eggs does she have left?",
+      "th": "แม่มีไข่ 140 ฟอง ใช้ไป 55 ฟอง แล้วซื้อเพิ่มอีก 30 ฟอง แม่เหลือไข่กี่ฟอง"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🥚",
+      "item2": "🥚"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "+"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "left",
+        "uses",
+        "use",
+        "more",
+        "and",
+        "buy",
+        "buys",
+        "has",
+        "have"
+      ],
+      "keywordsTH": [
+        "เหลือ",
+        "ใช้ไป",
+        "ใช้",
+        "อีก",
+        "เพิ่ม",
+        "ซื้อ"
+      ],
+      "item1Label": "eggs",
+      "item2Label": "eggs   buys 30  eggs",
+      "isLargeNumber": true,
+      "emoji1": "🥚",
+      "emoji2": "🥚"
+    }
+  },
+  {
+    "id": 118,
+    "level": 118,
+    "math": {
+      "num1": 85,
+      "num2": 32,
+      "ans": 73,
+      "num3": 20
+    },
+    "narrative": {
+      "en": "The school canteen has 85 trays. It gives out 32 trays and then receives 20 more trays. How many trays does the canteen have now?",
+      "th": "โรงอาหารมีถาดอาหาร 85 ใบ แจกไป 32 ใบ แล้วรับมาเพิ่มอีก 20 ใบ โรงอาหารมีถาดอาหารกี่ใบ"
+    },
+    "theme": {
+      "id": "candy",
+      "item1": "🍽️",
+      "item2": "🍽️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "+"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "gives",
+        "give",
+        "more",
+        "receives",
+        "and",
+        "has",
+        "have"
+      ],
+      "keywordsTH": [
+        "อีก",
+        "เพิ่ม",
+        "มาเพิ่ม"
+      ],
+      "item1Label": "trays",
+      "item2Label": "trays   receives 20  trays",
+      "isLargeNumber": true,
+      "emoji1": "🍽️",
+      "emoji2": "🍽️"
+    }
+  },
+  {
+    "id": 119,
+    "level": 119,
+    "math": {
+      "num1": 6,
+      "num2": 5,
+      "ans": 30
+    },
+    "narrative": {
+      "en": "There are 6 bags of candies. Each bag has 5 candies. How many candies are there in total?",
+      "th": "มีถุงลูกอม 6 ถุง ถุงละ 5 เม็ด มีลูกอมทั้งหมดกี่เม็ด"
+    },
+    "theme": {
+      "id": "candy",
+      "item1": "🍬",
+      "item2": "🛍️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each",
+        "bags of"
+      ],
+      "keywordsTH": [
+        "ถุงละ"
+      ],
+      "item1Label": "bags of candies",
+      "item2Label": "candies",
+      "emoji1": "🍬",
+      "emoji2": "🛍️"
+    }
+  },
+  {
+    "id": 120,
+    "level": 120,
+    "math": {
+      "num1": 4,
+      "num2": 8,
+      "ans": 32
+    },
+    "narrative": {
+      "en": "The teacher has 4 stacks of notebooks. Each stack has 8 notebooks. How many notebooks does the teacher have in total?",
+      "th": "ครูมีสมุด 4 กอง กองละ 8 เล่ม ครูมีสมุดทั้งหมดกี่เล่ม"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "📔",
+      "item2": "📚"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "×",
+      "title": "multiplication"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "each"
+      ],
+      "keywordsTH": [],
+      "item1Label": "stacks of notebooks",
+      "item2Label": "notebooks",
+      "emoji1": "📔",
+      "emoji2": "📚"
+    }
+  }
+]

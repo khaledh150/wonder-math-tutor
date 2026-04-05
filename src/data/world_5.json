@@ -1,0 +1,1264 @@
+[
+  {
+    "id": 162,
+    "level": 162,
+    "math": {
+      "num1": 45,
+      "num2": 9,
+      "ans": 5
+    },
+    "narrative": {
+      "en": "There are 45 juice boxes. They are shared equally among 9 children. How many boxes does each child get?",
+      "th": "มีน้ำผลไม้ 45 กล่อง แบ่งให้เด็ก 9 คนเท่า ๆ กัน เด็กคนละกี่กล่อง"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🧃",
+      "item2": "🧒"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "share",
+        "equally"
+      ],
+      "keywordsTH": [
+        "แบ่ง",
+        "คนละ"
+      ],
+      "item1Label": "juice boxes",
+      "item2Label": "children",
+      "isLargeNumber": true,
+      "emoji1": "🧃",
+      "emoji2": "🧒"
+    }
+  },
+  {
+    "id": 163,
+    "level": 163,
+    "math": {
+      "num1": 35,
+      "num2": 5,
+      "ans": 7
+    },
+    "narrative": {
+      "en": "There are 35 balloons. If 5 balloons are put into each bag, how many bags are there?",
+      "th": "มีลูกโป่ง 35 ใบ แบ่งใส่ถุงถุงละ 5 ใบ จะได้กี่ถุง"
+    },
+    "theme": {
+      "id": "beach",
+      "item1": "🎈",
+      "item2": "⚽"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [],
+      "keywordsTH": [
+        "แบ่ง"
+      ],
+      "item1Label": "balloons",
+      "item2Label": "balloons  put into each bag",
+      "isLargeNumber": true,
+      "emoji1": "🎈",
+      "emoji2": "⚽"
+    }
+  },
+  {
+    "id": 164,
+    "level": 164,
+    "math": {
+      "num1": 48,
+      "num2": 6,
+      "ans": 8
+    },
+    "narrative": {
+      "en": "There are 48 notebooks. If each stack has 6 notebooks, how many stacks are there?",
+      "th": "มีสมุด 48 เล่ม แบ่งเป็นกองกองละ 6 เล่ม จะได้กี่กอง"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "📔",
+      "item2": "📚"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [],
+      "keywordsTH": [
+        "แบ่ง"
+      ],
+      "item1Label": "notebooks",
+      "item2Label": "notebooks",
+      "isLargeNumber": true,
+      "emoji1": "📔",
+      "emoji2": "📚"
+    }
+  },
+  {
+    "id": 165,
+    "level": 165,
+    "math": {
+      "num1": 54,
+      "num2": 9,
+      "ans": 6
+    },
+    "narrative": {
+      "en": "There are 54 pieces of bread. They are shared equally among 9 children. How many pieces does each child get?",
+      "th": "มีขนมปัง 54 ชิ้น แบ่งให้เด็ก 9 คนเท่า ๆ กัน เด็กคนละกี่ชิ้น"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🍞",
+      "item2": "🧒"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "share",
+        "equally"
+      ],
+      "keywordsTH": [
+        "แบ่ง",
+        "คนละ"
+      ],
+      "item1Label": "pieces of bread",
+      "item2Label": "children",
+      "isLargeNumber": true,
+      "emoji1": "🍞",
+      "emoji2": "🧒"
+    }
+  },
+  {
+    "id": 166,
+    "level": 166,
+    "math": {
+      "num1": 32,
+      "num2": 8,
+      "ans": 4
+    },
+    "narrative": {
+      "en": "A garden has 32 seedlings. If 8 seedlings are planted in each row, how many rows are there?",
+      "th": "สวนมีต้นกล้า 32 ต้น ปลูกเป็นแถวแถวละ 8 ต้น จะได้กี่แถว"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🌱",
+      "item2": "🐦"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [],
+      "keywordsTH": [],
+      "item1Label": "seedlings",
+      "item2Label": "seedlings  planted in each row",
+      "isLargeNumber": true,
+      "emoji1": "🌱",
+      "emoji2": "🐦"
+    }
+  },
+  {
+    "id": 167,
+    "level": 167,
+    "math": {
+      "num1": 27,
+      "num2": 3,
+      "ans": 9
+    },
+    "narrative": {
+      "en": "There are 27 goldfish. They are divided equally into 3 tanks. How many fish are in each tank?",
+      "th": "มีปลาทอง 27 ตัว แบ่งใส่ตู้ 3 ตู้เท่า ๆ กัน ตู้ละกี่ตัว"
+    },
+    "theme": {
+      "id": "beach",
+      "item1": "🐠",
+      "item2": "🐟"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "divide",
+        "equally"
+      ],
+      "keywordsTH": [
+        "แบ่ง"
+      ],
+      "item1Label": "goldfish",
+      "item2Label": "tanks",
+      "isLargeNumber": true,
+      "emoji1": "🐠",
+      "emoji2": "🐟"
+    }
+  },
+  {
+    "id": 168,
+    "level": 168,
+    "math": {
+      "num1": 56,
+      "num2": 7,
+      "ans": 8
+    },
+    "narrative": {
+      "en": "A shop has 56 colored pencils. If 7 pencils are put into each box, how many boxes are there?",
+      "th": "ร้านมีดินสอสี 56 แท่ง ใส่กล่องกล่องละ 7 แท่ง จะได้กี่กล่อง"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "🖍️",
+      "item2": "✏️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [],
+      "keywordsTH": [],
+      "item1Label": "colored pencils",
+      "item2Label": "pencils  put into each box",
+      "isLargeNumber": true,
+      "emoji1": "🖍️",
+      "emoji2": "✏️"
+    }
+  },
+  {
+    "id": 169,
+    "level": 169,
+    "math": {
+      "num1": 63,
+      "num2": 9,
+      "ans": 7
+    },
+    "narrative": {
+      "en": "There are 63 pieces of chalk. They are shared equally among 9 teachers. How many pieces does each teacher get?",
+      "th": "มีชอล์ก 63 แท่ง แบ่งให้ครู 9 คนเท่า ๆ กัน ครูคนละกี่แท่ง"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "🖍️",
+      "item2": "🖍️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "share",
+        "equally"
+      ],
+      "keywordsTH": [
+        "แบ่ง",
+        "คนละ"
+      ],
+      "item1Label": "pieces of chalk",
+      "item2Label": "teachers",
+      "isLargeNumber": true,
+      "emoji1": "🖍️",
+      "emoji2": "🖍️"
+    }
+  },
+  {
+    "id": 170,
+    "level": 170,
+    "math": {
+      "num1": 50,
+      "num2": 5,
+      "ans": 10
+    },
+    "narrative": {
+      "en": "There are 50 stickers. They are shared equally among 5 children. How many stickers does each child get?",
+      "th": "มีสติกเกอร์ 50 แผ่น แบ่งให้เด็ก 5 คนเท่า ๆ กัน เด็กคนละกี่แผ่น"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "⭐",
+      "item2": "🧒"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "share",
+        "equally"
+      ],
+      "keywordsTH": [
+        "แบ่ง",
+        "คนละ"
+      ],
+      "item1Label": "stickers",
+      "item2Label": "children",
+      "isLargeNumber": true,
+      "emoji1": "⭐",
+      "emoji2": "🧒"
+    }
+  },
+  {
+    "id": 171,
+    "level": 171,
+    "math": {
+      "num1": 72,
+      "num2": 12,
+      "ans": 6
+    },
+    "narrative": {
+      "en": "There are 72 cartons of milk. If each crate holds 12 cartons, how many crates are there?",
+      "th": "มีนม 72 กล่อง แบ่งใส่ลังลังละ 12 กล่อง จะได้กี่ลัง"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🥛",
+      "item2": "🚗"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [],
+      "keywordsTH": [
+        "แบ่ง"
+      ],
+      "item1Label": "cartons of milk",
+      "item2Label": "cartons",
+      "isLargeNumber": true,
+      "emoji1": "🥛",
+      "emoji2": "🚗"
+    }
+  },
+  {
+    "id": 172,
+    "level": 172,
+    "math": {
+      "num1": 45,
+      "num2": 5,
+      "ans": 9
+    },
+    "narrative": {
+      "en": "There are 45 comic books. They are divided equally onto 5 shelves. How many books are on each shelf?",
+      "th": "มีหนังสือการ์ตูน 45 เล่ม แบ่งใส่ชั้น 5 ชั้นเท่า ๆ กัน ชั้นละกี่เล่ม"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "📖",
+      "item2": "📚"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "divide",
+        "equally"
+      ],
+      "keywordsTH": [
+        "แบ่ง"
+      ],
+      "item1Label": "comic books",
+      "item2Label": "shelves",
+      "isLargeNumber": true,
+      "emoji1": "📖",
+      "emoji2": "📚"
+    }
+  },
+  {
+    "id": 173,
+    "level": 173,
+    "math": {
+      "num1": 64,
+      "num2": 8,
+      "ans": 8
+    },
+    "narrative": {
+      "en": "There are 64 bottles of water. If 8 bottles are put into each box, how many boxes are there?",
+      "th": "มีขวดน้ำ 64 ขวด แบ่งใส่กล่องกล่องละ 8 ขวด จะได้กี่กล่อง"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "💧",
+      "item2": "🍶"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [],
+      "keywordsTH": [
+        "แบ่ง"
+      ],
+      "item1Label": "bottles of water",
+      "item2Label": "bottles  put into each box",
+      "isLargeNumber": true,
+      "emoji1": "💧",
+      "emoji2": "🍶"
+    }
+  },
+  {
+    "id": 174,
+    "level": 174,
+    "math": {
+      "num1": 36,
+      "num2": 4,
+      "ans": 9
+    },
+    "narrative": {
+      "en": "There are 36 marbles. They are shared equally among 4 children. How many marbles does each child get?",
+      "th": "มีลูกแก้ว 36 ลูก แบ่งให้เด็ก 4 คนเท่า ๆ กัน เด็กคนละกี่ลูก"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🔮",
+      "item2": "🧒"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "share",
+        "equally"
+      ],
+      "keywordsTH": [
+        "แบ่ง",
+        "คนละ"
+      ],
+      "item1Label": "marbles",
+      "item2Label": "children",
+      "isLargeNumber": true,
+      "emoji1": "🔮",
+      "emoji2": "🧒"
+    }
+  },
+  {
+    "id": 175,
+    "level": 175,
+    "math": {
+      "num1": 42,
+      "num2": 6,
+      "ans": 7
+    },
+    "narrative": {
+      "en": "There are 42 flowers. If each bouquet has 6 flowers, how many bouquets are there?",
+      "th": "มีดอกไม้ 42 ดอก จัดเป็นช่อช่อละ 6 ดอก จะได้กี่ช่อ"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🌸",
+      "item2": "🌸"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [],
+      "keywordsTH": [],
+      "item1Label": "flowers",
+      "item2Label": "flowers",
+      "isLargeNumber": true,
+      "emoji1": "🌸",
+      "emoji2": "🌸"
+    }
+  },
+  {
+    "id": 176,
+    "level": 176,
+    "math": {
+      "num1": 80,
+      "num2": 10,
+      "ans": 8
+    },
+    "narrative": {
+      "en": "There are 80 lunch boxes. They are shared equally among 10 classrooms. How many lunch boxes does each classroom get?",
+      "th": "มีข้าวกล่อง 80 กล่อง แบ่งให้ห้องเรียน 10 ห้องเท่า ๆ กัน ห้องละกี่กล่อง"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "🍱",
+      "item2": "📦"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "share",
+        "equally"
+      ],
+      "keywordsTH": [
+        "แบ่ง"
+      ],
+      "item1Label": "lunch boxes",
+      "item2Label": "classrooms",
+      "isLargeNumber": true,
+      "emoji1": "🍱",
+      "emoji2": "📦"
+    }
+  },
+  {
+    "id": 177,
+    "level": 177,
+    "math": {
+      "num1": 66,
+      "num2": 6,
+      "ans": 11
+    },
+    "narrative": {
+      "en": "There are 66 cups of ice cream. They are shared equally among 6 children. How many cups does each child get?",
+      "th": "มีไอศกรีม 66 ถ้วย แบ่งให้เด็ก 6 คนเท่า ๆ กัน เด็กคนละกี่ถ้วย"
+    },
+    "theme": {
+      "id": "candy",
+      "item1": "🍦",
+      "item2": "🧒"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "share",
+        "equally"
+      ],
+      "keywordsTH": [
+        "แบ่ง",
+        "คนละ"
+      ],
+      "item1Label": "cups of ice cream",
+      "item2Label": "children",
+      "isLargeNumber": true,
+      "emoji1": "🍦",
+      "emoji2": "🧒"
+    }
+  },
+  {
+    "id": 178,
+    "level": 178,
+    "math": {
+      "num1": 90,
+      "num2": 9,
+      "ans": 10
+    },
+    "narrative": {
+      "en": "There are 90 oranges. They are divided equally into 9 baskets. How many oranges are in each basket?",
+      "th": "มีส้ม 90 ลูก แบ่งใส่ตะกร้า 9 ใบเท่า ๆ กัน ตะกร้าละกี่ลูก"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🍊",
+      "item2": "🧺"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "divide",
+        "equally"
+      ],
+      "keywordsTH": [
+        "แบ่ง"
+      ],
+      "item1Label": "oranges",
+      "item2Label": "baskets",
+      "isLargeNumber": true,
+      "emoji1": "🍊",
+      "emoji2": "🧺"
+    }
+  },
+  {
+    "id": 179,
+    "level": 179,
+    "math": {
+      "num1": 48,
+      "num2": 6,
+      "ans": 8
+    },
+    "narrative": {
+      "en": "There are 48 dolls. If 6 dolls are put into each box, how many boxes are there?",
+      "th": "มีตุ๊กตา 48 ตัว แบ่งใส่กล่องกล่องละ 6 ตัว จะได้กี่กล่อง"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🧸",
+      "item2": "📦"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [],
+      "keywordsTH": [
+        "แบ่ง"
+      ],
+      "item1Label": "dolls",
+      "item2Label": "dolls  put into each box",
+      "isLargeNumber": true,
+      "emoji1": "🧸",
+      "emoji2": "📦"
+    }
+  },
+  {
+    "id": 180,
+    "level": 180,
+    "math": {
+      "num1": 75,
+      "num2": 5,
+      "ans": 15
+    },
+    "narrative": {
+      "en": "There are 75 snacks. They are shared equally among 5 bags. How many snacks are in each bag?",
+      "th": "มีขนม 75 ชิ้น แบ่งใส่ถุง 5 ถุงเท่า ๆ กัน ถุงละกี่ชิ้น"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🥨",
+      "item2": "🛍️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "share",
+        "equally"
+      ],
+      "keywordsTH": [
+        "แบ่ง"
+      ],
+      "item1Label": "snacks",
+      "item2Label": "bags",
+      "isLargeNumber": true,
+      "emoji1": "🥨",
+      "emoji2": "🛍️"
+    }
+  },
+  {
+    "id": 181,
+    "level": 181,
+    "math": {
+      "num1": 81,
+      "num2": 9,
+      "ans": 9
+    },
+    "narrative": {
+      "en": "There are 81 pencils. They are shared equally among 9 children. How many pencils does each child get?",
+      "th": "มีดินสอ 81 แท่ง แบ่งให้เด็ก 9 คนเท่า ๆ กัน เด็กคนละกี่แท่ง"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "✏️",
+      "item2": "🖊️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "share",
+        "equally"
+      ],
+      "keywordsTH": [
+        "แบ่ง",
+        "คนละ"
+      ],
+      "item1Label": "pencils",
+      "item2Label": "children",
+      "isLargeNumber": true,
+      "emoji1": "✏️",
+      "emoji2": "🖊️"
+    }
+  },
+  {
+    "id": 182,
+    "level": 182,
+    "math": {
+      "num1": 84,
+      "num2": 7,
+      "ans": 12
+    },
+    "narrative": {
+      "en": "There are 84 candies. If 7 candies are put into each bag, how many bags are there?",
+      "th": "มีลูกอม 84 เม็ด แบ่งใส่ถุงถุงละ 7 เม็ด จะได้กี่ถุง"
+    },
+    "theme": {
+      "id": "candy",
+      "item1": "🍬",
+      "item2": "🛍️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [],
+      "keywordsTH": [
+        "แบ่ง"
+      ],
+      "item1Label": "candies",
+      "item2Label": "candies  put into each bag",
+      "isLargeNumber": true,
+      "emoji1": "🍬",
+      "emoji2": "🛍️"
+    }
+  },
+  {
+    "id": 183,
+    "level": 183,
+    "math": {
+      "num1": 60,
+      "num2": 12,
+      "ans": 5
+    },
+    "narrative": {
+      "en": "There are 60 fruits. They are shared equally among 12 children. How many fruits does each child get?",
+      "th": "มีผลไม้ 60 ลูก แบ่งให้เด็ก 12 คนเท่า ๆ กัน เด็กคนละกี่ลูก"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🍎",
+      "item2": "🧒"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "share",
+        "equally"
+      ],
+      "keywordsTH": [
+        "แบ่ง",
+        "คนละ"
+      ],
+      "item1Label": "fruits",
+      "item2Label": "children",
+      "isLargeNumber": true,
+      "emoji1": "🍎",
+      "emoji2": "🧒"
+    }
+  },
+  {
+    "id": 184,
+    "level": 184,
+    "math": {
+      "num1": 72,
+      "num2": 8,
+      "ans": 9
+    },
+    "narrative": {
+      "en": "There are 72 tilapia fish. They are divided equally into 8 ponds. How many fish are in each pond?",
+      "th": "มีปลานิล 72 ตัว แบ่งใส่บ่อ 8 บ่อเท่า ๆ กัน บ่อละกี่ตัว"
+    },
+    "theme": {
+      "id": "beach",
+      "item1": "🐟",
+      "item2": "🐟"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "divide",
+        "equally"
+      ],
+      "keywordsTH": [
+        "แบ่ง"
+      ],
+      "item1Label": "tilapia fish",
+      "item2Label": "ponds",
+      "isLargeNumber": true,
+      "emoji1": "🐟",
+      "emoji2": "🐟"
+    }
+  },
+  {
+    "id": 185,
+    "level": 185,
+    "math": {
+      "num1": 96,
+      "num2": 6,
+      "ans": 16
+    },
+    "narrative": {
+      "en": "There are 96 storybooks. They are shared equally among 6 classrooms. How many books does each classroom get?",
+      "th": "มีหนังสือนิทาน 96 เล่ม แบ่งให้ห้องเรียน 6 ห้องเท่า ๆ กัน ห้องละกี่เล่ม"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "📚",
+      "item2": "📚"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "share",
+        "equally"
+      ],
+      "keywordsTH": [
+        "แบ่ง"
+      ],
+      "item1Label": "storybooks",
+      "item2Label": "classrooms",
+      "isLargeNumber": true,
+      "emoji1": "📚",
+      "emoji2": "📚"
+    }
+  },
+  {
+    "id": 186,
+    "level": 186,
+    "math": {
+      "num1": 64,
+      "num2": 8,
+      "ans": 8
+    },
+    "narrative": {
+      "en": "There are 64 pieces of bread. They are divided equally onto 8 trays. How many pieces are on each tray?",
+      "th": "มีขนมปัง 64 ชิ้น แบ่งใส่ถาด 8 ถาดเท่า ๆ กัน ถาดละกี่ชิ้น"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🍞",
+      "item2": "🍽️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "divide",
+        "equally"
+      ],
+      "keywordsTH": [
+        "แบ่ง"
+      ],
+      "item1Label": "pieces of bread",
+      "item2Label": "trays",
+      "isLargeNumber": true,
+      "emoji1": "🍞",
+      "emoji2": "🍽️"
+    }
+  },
+  {
+    "id": 187,
+    "level": 187,
+    "math": {
+      "num1": 56,
+      "num2": 7,
+      "ans": 8
+    },
+    "narrative": {
+      "en": "There are 56 roses. They are divided equally into 7 vases. How many roses are in each vase?",
+      "th": "มีดอกกุหลาบ 56 ดอก แบ่งจัดใส่แจกัน 7 ใบเท่า ๆ กัน แจกันละกี่ดอก"
+    },
+    "theme": {
+      "id": "candy",
+      "item1": "🌹",
+      "item2": "🏺"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "divide",
+        "equally"
+      ],
+      "keywordsTH": [
+        "แบ่ง",
+        "แจก"
+      ],
+      "item1Label": "roses",
+      "item2Label": "vases",
+      "isLargeNumber": true,
+      "emoji1": "🌹",
+      "emoji2": "🏺"
+    }
+  },
+  {
+    "id": 188,
+    "level": 188,
+    "math": {
+      "num1": 108,
+      "num2": 12,
+      "ans": 9
+    },
+    "narrative": {
+      "en": "There are 108 bottles of orange juice. If each crate holds 12 bottles, how many crates are there?",
+      "th": "มีน้ำส้ม 108 ขวด แบ่งใส่ลังลังละ 12 ขวด จะได้กี่ลัง"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🧃",
+      "item2": "🍊"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [],
+      "keywordsTH": [
+        "แบ่ง"
+      ],
+      "item1Label": "bottles of orange juice",
+      "item2Label": "bottles",
+      "isLargeNumber": true,
+      "emoji1": "🧃",
+      "emoji2": "🍊"
+    }
+  },
+  {
+    "id": 189,
+    "level": 189,
+    "math": {
+      "num1": 48,
+      "num2": 6,
+      "ans": 8
+    },
+    "narrative": {
+      "en": "There are 48 balloons. They are shared equally among 6 children. How many balloons does each child get?",
+      "th": "มีลูกโป่ง 48 ใบ แบ่งให้เด็ก 6 คนเท่า ๆ กัน เด็กคนละกี่ใบ"
+    },
+    "theme": {
+      "id": "beach",
+      "item1": "🎈",
+      "item2": "⚽"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "share",
+        "equally"
+      ],
+      "keywordsTH": [
+        "แบ่ง",
+        "คนละ"
+      ],
+      "item1Label": "balloons",
+      "item2Label": "children",
+      "isLargeNumber": true,
+      "emoji1": "🎈",
+      "emoji2": "⚽"
+    }
+  },
+  {
+    "id": 190,
+    "level": 190,
+    "math": {
+      "num1": 100,
+      "num2": 10,
+      "ans": 10
+    },
+    "narrative": {
+      "en": "There are 100 pieces of chalk. If 10 pieces are put into each box, how many boxes are there?",
+      "th": "มีชอล์ก 100 แท่ง แบ่งใส่กล่องกล่องละ 10 แท่ง จะได้กี่กล่อง"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "🖍️",
+      "item2": "📦"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [],
+      "keywordsTH": [
+        "แบ่ง"
+      ],
+      "item1Label": "pieces of chalk",
+      "item2Label": "pieces  put into each box",
+      "isLargeNumber": true,
+      "emoji1": "🖍️",
+      "emoji2": "📦"
+    }
+  },
+  {
+    "id": 191,
+    "level": 191,
+    "math": {
+      "num1": 72,
+      "num2": 9,
+      "ans": 8
+    },
+    "narrative": {
+      "en": "There are 72 bottles of water. They are divided equally into 9 crates. How many bottles are in each crate?",
+      "th": "มีขวดน้ำ 72 ขวด แบ่งใส่ลัง 9 ลังเท่า ๆ กัน ลังละกี่ขวด"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "💧",
+      "item2": "🍶"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "divide",
+        "equally"
+      ],
+      "keywordsTH": [
+        "แบ่ง"
+      ],
+      "item1Label": "bottles of water",
+      "item2Label": "crates",
+      "isLargeNumber": true,
+      "emoji1": "💧",
+      "emoji2": "🍶"
+    }
+  },
+  {
+    "id": 192,
+    "level": 192,
+    "math": {
+      "num1": 63,
+      "num2": 7,
+      "ans": 9
+    },
+    "narrative": {
+      "en": "There are 63 marbles. They are shared equally among 7 children. How many marbles does each child get?",
+      "th": "มีลูกแก้ว 63 ลูก แบ่งให้เด็ก 7 คนเท่า ๆ กัน เด็กคนละกี่ลูก"
+    },
+    "theme": {
+      "id": "beach",
+      "item1": "🔮",
+      "item2": "🧒"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "share",
+        "equally"
+      ],
+      "keywordsTH": [
+        "แบ่ง",
+        "คนละ"
+      ],
+      "item1Label": "marbles",
+      "item2Label": "children",
+      "isLargeNumber": true,
+      "emoji1": "🔮",
+      "emoji2": "🧒"
+    }
+  },
+  {
+    "id": 193,
+    "level": 193,
+    "math": {
+      "num1": 84,
+      "num2": 12,
+      "ans": 7
+    },
+    "narrative": {
+      "en": "There are 84 notebooks. If 12 notebooks are put into each box, how many boxes are there?",
+      "th": "มีสมุด 84 เล่ม แบ่งใส่กล่องกล่องละ 12 เล่ม จะได้กี่กล่อง"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "📔",
+      "item2": "📚"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [],
+      "keywordsTH": [
+        "แบ่ง"
+      ],
+      "item1Label": "notebooks",
+      "item2Label": "notebooks  put into each box",
+      "isLargeNumber": true,
+      "emoji1": "📔",
+      "emoji2": "📚"
+    }
+  },
+  {
+    "id": 194,
+    "level": 194,
+    "math": {
+      "num1": 96,
+      "num2": 8,
+      "ans": 12
+    },
+    "narrative": {
+      "en": "There are 96 oranges. They are divided equally into 8 bags. How many oranges are in each bag?",
+      "th": "มีส้ม 96 ลูก แบ่งใส่ถุง 8 ถุงเท่า ๆ กัน ถุงละกี่ลูก"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🍊",
+      "item2": "🛍️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "divide",
+        "equally"
+      ],
+      "keywordsTH": [
+        "แบ่ง"
+      ],
+      "item1Label": "oranges",
+      "item2Label": "bags",
+      "isLargeNumber": true,
+      "emoji1": "🍊",
+      "emoji2": "🛍️"
+    }
+  },
+  {
+    "id": 195,
+    "level": 195,
+    "math": {
+      "num1": 90,
+      "num2": 10,
+      "ans": 9
+    },
+    "narrative": {
+      "en": "There are 90 snacks. They are shared equally among 10 children. How many snacks does each child get?",
+      "th": "มีขนม 90 ชิ้น แบ่งให้เด็ก 10 คนเท่า ๆ กัน เด็กคนละกี่ชิ้น"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🥨",
+      "item2": "🧒"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "share",
+        "equally"
+      ],
+      "keywordsTH": [
+        "แบ่ง",
+        "คนละ"
+      ],
+      "item1Label": "snacks",
+      "item2Label": "children",
+      "isLargeNumber": true,
+      "emoji1": "🥨",
+      "emoji2": "🧒"
+    }
+  },
+  {
+    "id": 196,
+    "level": 196,
+    "math": {
+      "num1": 120,
+      "num2": 15,
+      "ans": 8
+    },
+    "narrative": {
+      "en": "There are 120 colored pencils. If 15 pencils are put into each box, how many boxes are there?",
+      "th": "มีดินสอสี 120 แท่ง แบ่งใส่กล่องกล่องละ 15 แท่ง จะได้กี่กล่อง"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "🖍️",
+      "item2": "✏️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "÷",
+      "title": "division"
+    },
+    "analysis": {
+      "keywordsEN": [],
+      "keywordsTH": [
+        "แบ่ง"
+      ],
+      "item1Label": "colored pencils",
+      "item2Label": "pencils  put into each box",
+      "isLargeNumber": true,
+      "emoji1": "🖍️",
+      "emoji2": "✏️"
+    }
+  }
+]

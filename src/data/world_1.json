@@ -1,0 +1,1606 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "math": {
+      "num1": 25,
+      "num2": 34,
+      "ans": 59
+    },
+    "narrative": {
+      "en": "Kaew has 25 candies. Her mother gives her 34 more candies. How many candies does Kaew have in total?",
+      "th": "แก้วมีลูกอม 25 เม็ด แม่ให้อีก 34 เม็ด แก้วมีลูกอมทั้งหมดกี่เม็ด"
+    },
+    "theme": {
+      "id": "candy",
+      "item1": "🍬",
+      "item2": "🍬"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "gives",
+        "give",
+        "more",
+        "total",
+        "and",
+        "has",
+        "have"
+      ],
+      "keywordsTH": [
+        "ให้",
+        "อีก",
+        "ทั้งหมด"
+      ],
+      "item1Label": "candies",
+      "item2Label": "candies",
+      "isLargeNumber": true,
+      "emoji1": "🍬",
+      "emoji2": "🍬"
+    }
+  },
+  {
+    "id": 2,
+    "level": 2,
+    "math": {
+      "num1": 18,
+      "num2": 27,
+      "ans": 45
+    },
+    "narrative": {
+      "en": "Ball has 18 pencils. His teacher gives him 27 more pencils. How many pencils does Ball have in total?",
+      "th": "บอลมีดินสอ 18 แท่ง ครูให้อีก 27 แท่ง บอลมีดินสอทั้งหมดกี่แท่ง"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "✏️",
+      "item2": "🖊️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "gives",
+        "give",
+        "more",
+        "total",
+        "has",
+        "have"
+      ],
+      "keywordsTH": [
+        "ให้",
+        "อีก",
+        "ทั้งหมด"
+      ],
+      "item1Label": "pencils",
+      "item2Label": "pencils",
+      "isLargeNumber": true,
+      "emoji1": "✏️",
+      "emoji2": "🖊️"
+    }
+  },
+  {
+    "id": 3,
+    "level": 3,
+    "math": {
+      "num1": 45,
+      "num2": 32,
+      "ans": 77
+    },
+    "narrative": {
+      "en": "A snack shop makes 45 small snacks and 32 big snacks. How many snacks does the shop make in total?",
+      "th": "ร้านขนมทำขนมชิ้นเล็ก 45 ชิ้น และทำขนมชิ้นใหญ่ 32 ชิ้น ร้านทำขนมทั้งหมดกี่ชิ้น"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🥨",
+      "item2": "🥨"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "total",
+        "and",
+        "makes"
+      ],
+      "keywordsTH": [
+        "ทั้งหมด",
+        "และ"
+      ],
+      "item1Label": "small snacks  32 big snacks",
+      "item2Label": "small snacks  32 big snacks",
+      "isLargeNumber": true,
+      "emoji1": "🥨",
+      "emoji2": "🥨"
+    }
+  },
+  {
+    "id": 4,
+    "level": 4,
+    "math": {
+      "num1": 36,
+      "num2": 24,
+      "ans": 60
+    },
+    "narrative": {
+      "en": "Nid collects 36 shells. The next day, she collects 24 more shells. How many shells does Nid collect in total?",
+      "th": "นิดเก็บเปลือกหอยได้ 36 อัน วันถัดมาเก็บได้อีก 24 อัน นิดเก็บเปลือกหอยได้ทั้งหมดกี่อัน"
+    },
+    "theme": {
+      "id": "beach",
+      "item1": "🐚",
+      "item2": "🐚"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "more",
+        "total",
+        "collect",
+        "collects"
+      ],
+      "keywordsTH": [
+        "อีก",
+        "ทั้งหมด",
+        "เก็บ"
+      ],
+      "item1Label": "shells",
+      "item2Label": "shells",
+      "isLargeNumber": true,
+      "emoji1": "🐚",
+      "emoji2": "🐚"
+    }
+  },
+  {
+    "id": 5,
+    "level": 5,
+    "math": {
+      "num1": 58,
+      "num2": 21,
+      "ans": 79
+    },
+    "narrative": {
+      "en": "A fruit garden has 58 mangoes and 21 oranges. How many fruits are there in total?",
+      "th": "สวนผลไม้มีมะม่วง 58 ลูก และมีส้ม 21 ลูก สวนผลไม้มีผลไม้ทั้งหมดกี่ลูก"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🥭",
+      "item2": "🍊"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "total",
+        "and",
+        "has"
+      ],
+      "keywordsTH": [
+        "ทั้งหมด",
+        "และ"
+      ],
+      "item1Label": "mangoes  21 oranges",
+      "item2Label": "mangoes  21 oranges",
+      "isLargeNumber": true,
+      "emoji1": "🥭",
+      "emoji2": "🍊"
+    }
+  },
+  {
+    "id": 6,
+    "level": 6,
+    "math": {
+      "num1": 64,
+      "num2": 29,
+      "ans": 93
+    },
+    "narrative": {
+      "en": "The library has 64 storybooks and 29 comic books. How many books are there in the library in total?",
+      "th": "ห้องสมุดมีหนังสือนิทาน 64 เล่ม และมีหนังสือการ์ตูน 29 เล่ม ห้องสมุดมีหนังสือทั้งหมดกี่เล่ม"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "📖",
+      "item2": "📚"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "total",
+        "and",
+        "has"
+      ],
+      "keywordsTH": [
+        "ทั้งหมด",
+        "และ"
+      ],
+      "item1Label": "storybooks  29 comic books",
+      "item2Label": "storybooks  29 comic books",
+      "isLargeNumber": true,
+      "emoji1": "📖",
+      "emoji2": "📚"
+    }
+  },
+  {
+    "id": 7,
+    "level": 7,
+    "math": {
+      "num1": 17,
+      "num2": 23,
+      "ans": 40
+    },
+    "narrative": {
+      "en": "Father buys 17 pieces of bread and 23 cartons of milk. How many items does he buy in total?",
+      "th": "พ่อซื้อขนมปัง 17 ชิ้น และซื้อนม 23 กล่อง พ่อซื้อของทั้งหมดกี่ชิ้น"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🍞",
+      "item2": "🥛"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "total",
+        "and",
+        "buy",
+        "buys"
+      ],
+      "keywordsTH": [
+        "ทั้งหมด",
+        "และ",
+        "ซื้อ"
+      ],
+      "item1Label": "pieces of bread  23 cartons of milk",
+      "item2Label": "pieces of bread  23 cartons of milk",
+      "isLargeNumber": true,
+      "emoji1": "🍞",
+      "emoji2": "🥛"
+    }
+  },
+  {
+    "id": 8,
+    "level": 8,
+    "math": {
+      "num1": 42,
+      "num2": 16,
+      "ans": 58
+    },
+    "narrative": {
+      "en": "Fah has 42 flowers. Her friend gives her 16 more flowers. How many flowers does Fah have in total?",
+      "th": "ฟ้ามีดอกไม้ 42 ดอก เพื่อนให้อีก 16 ดอก ฟ้ามีดอกไม้ทั้งหมดกี่ดอก"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🌸",
+      "item2": "🌸"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "gives",
+        "give",
+        "more",
+        "total",
+        "has",
+        "have"
+      ],
+      "keywordsTH": [
+        "ให้",
+        "อีก",
+        "ทั้งหมด"
+      ],
+      "item1Label": "flowers",
+      "item2Label": "flowers",
+      "isLargeNumber": true,
+      "emoji1": "🌸",
+      "emoji2": "🌸"
+    }
+  },
+  {
+    "id": 9,
+    "level": 9,
+    "math": {
+      "num1": 75,
+      "num2": 14,
+      "ans": 89
+    },
+    "narrative": {
+      "en": "A farm has 75 chickens and 14 ducks. How many animals are there on the farm in total?",
+      "th": "ฟาร์มเลี้ยงไก่ 75 ตัว และเลี้ยงเป็ด 14 ตัว ฟาร์มเลี้ยงสัตว์ทั้งหมดกี่ตัว"
+    },
+    "theme": {
+      "id": "beach",
+      "item1": "🐔",
+      "item2": "🦆"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "total",
+        "and",
+        "has"
+      ],
+      "keywordsTH": [
+        "ทั้งหมด",
+        "และ"
+      ],
+      "item1Label": "chickens  14 ducks",
+      "item2Label": "chickens  14 ducks",
+      "isLargeNumber": true,
+      "emoji1": "🐔",
+      "emoji2": "🦆"
+    }
+  },
+  {
+    "id": 10,
+    "level": 10,
+    "math": {
+      "num1": 28,
+      "num2": 35,
+      "ans": 63
+    },
+    "narrative": {
+      "en": "The teacher prepares 28 notebooks and 35 pencils for the students. How many items does the teacher prepare in total?",
+      "th": "ครูเตรียมสมุดแจกนักเรียน 28 เล่ม และเตรียมดินสออีก 35 แท่ง ครูเตรียมของทั้งหมดกี่ชิ้น"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "📔",
+      "item2": "✏️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "total",
+        "and",
+        "prepare",
+        "prepares"
+      ],
+      "keywordsTH": [
+        "อีก",
+        "ทั้งหมด",
+        "และ"
+      ],
+      "item1Label": "notebooks  35 pencils for  students",
+      "item2Label": "notebooks  35 pencils for  students",
+      "isLargeNumber": true,
+      "emoji1": "📔",
+      "emoji2": "✏️"
+    }
+  },
+  {
+    "id": 11,
+    "level": 11,
+    "math": {
+      "num1": 39,
+      "num2": 46,
+      "ans": 85
+    },
+    "narrative": {
+      "en": "A fruit shop has 39 apples and 46 grapes. How many fruits are there in the shop in total?",
+      "th": "ร้านขายผลไม้มีแอปเปิล 39 ลูก และมีองุ่น 46 ลูก ร้านมีผลไม้ทั้งหมดกี่ลูก"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🍎",
+      "item2": "🍇"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "total",
+        "and",
+        "has"
+      ],
+      "keywordsTH": [
+        "ทั้งหมด",
+        "และ"
+      ],
+      "item1Label": "apples  46 grapes",
+      "item2Label": "apples  46 grapes",
+      "isLargeNumber": true,
+      "emoji1": "🍎",
+      "emoji2": "🍇"
+    }
+  },
+  {
+    "id": 12,
+    "level": 12,
+    "math": {
+      "num1": 54,
+      "num2": 25,
+      "ans": 79
+    },
+    "narrative": {
+      "en": "Ton has 54 marbles. Tan gives him 25 more marbles. How many marbles does Ton have in total?",
+      "th": "เด็กชายต้นมีลูกแก้ว 54 ลูก เด็กหญิงตาลให้อีก 25 ลูก ต้นมีลูกแก้วทั้งหมดกี่ลูก"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🔮",
+      "item2": "🔮"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "gives",
+        "give",
+        "more",
+        "total",
+        "has",
+        "have"
+      ],
+      "keywordsTH": [
+        "ให้",
+        "อีก",
+        "ทั้งหมด"
+      ],
+      "item1Label": "marbles",
+      "item2Label": "marbles",
+      "isLargeNumber": true,
+      "emoji1": "🔮",
+      "emoji2": "🔮"
+    }
+  },
+  {
+    "id": 13,
+    "level": 13,
+    "math": {
+      "num1": 32,
+      "num2": 41,
+      "ans": 73
+    },
+    "narrative": {
+      "en": "Mother plants 32 kale plants and 41 morning glory plants. How many plants does she plant in total?",
+      "th": "แม่ปลูกผักคะน้า 32 ต้น และปลูกผักบุ้ง 41 ต้น แม่ปลูกผักทั้งหมดกี่ต้น"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🌱",
+      "item2": "🌱"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "total",
+        "and"
+      ],
+      "keywordsTH": [
+        "ทั้งหมด",
+        "และ"
+      ],
+      "item1Label": "kale plants  41 morning glory plants",
+      "item2Label": "kale plants  41 morning glory plants",
+      "isLargeNumber": true,
+      "emoji1": "🌱",
+      "emoji2": "🌱"
+    }
+  },
+  {
+    "id": 14,
+    "level": 14,
+    "math": {
+      "num1": 48,
+      "num2": 19,
+      "ans": 67
+    },
+    "narrative": {
+      "en": "One box has 48 colored pencils, and another box has 19 colored pencils. How many colored pencils are there in total?",
+      "th": "กล่องหนึ่งมีดินสอสี 48 แท่ง อีกกล่องมี 19 แท่ง มีกี่แท่งทั้งหมด"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "🖍️",
+      "item2": "✏️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "total",
+        "and",
+        "has"
+      ],
+      "keywordsTH": [
+        "อีก",
+        "ทั้งหมด"
+      ],
+      "item1Label": "colored pencils",
+      "item2Label": "colored pencils",
+      "isLargeNumber": true,
+      "emoji1": "🖍️",
+      "emoji2": "✏️"
+    }
+  },
+  {
+    "id": 15,
+    "level": 15,
+    "math": {
+      "num1": 63,
+      "num2": 27,
+      "ans": 90
+    },
+    "narrative": {
+      "en": "A stationery shop sells 63 notebooks and 27 pens. How many items does the shop sell in total?",
+      "th": "ร้านเครื่องเขียนขายสมุดได้ 63 เล่ม และขายปากกาได้ 27 ด้าม ร้านขายของได้ทั้งหมดกี่ชิ้น"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "📔",
+      "item2": "📚"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "total",
+        "and"
+      ],
+      "keywordsTH": [
+        "ทั้งหมด",
+        "และ"
+      ],
+      "item1Label": "notebooks  27 pens",
+      "item2Label": "notebooks  27 pens",
+      "isLargeNumber": true,
+      "emoji1": "📔",
+      "emoji2": "📚"
+    }
+  },
+  {
+    "id": 16,
+    "level": 16,
+    "math": {
+      "num1": 36,
+      "num2": 44,
+      "ans": 80
+    },
+    "narrative": {
+      "en": "The zoo has 36 monkeys and 44 birds. How many animals are there in the zoo in total?",
+      "th": "สวนสัตว์มีลิง 36 ตัว และมีนก 44 ตัว สวนสัตว์มีสัตว์ทั้งหมดกี่ตัว"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🐒",
+      "item2": "🐦"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "total",
+        "and",
+        "has"
+      ],
+      "keywordsTH": [
+        "ทั้งหมด",
+        "และ"
+      ],
+      "item1Label": "monkeys  44 birds",
+      "item2Label": "monkeys  44 birds",
+      "isLargeNumber": true,
+      "emoji1": "🐒",
+      "emoji2": "🐦"
+    }
+  },
+  {
+    "id": 17,
+    "level": 17,
+    "math": {
+      "num1": 22,
+      "num2": 58,
+      "ans": 80
+    },
+    "narrative": {
+      "en": "Mind has 22 snacks. Her older sibling gives her 58 more snacks. How many snacks does Mind have in total?",
+      "th": "มายด์มีขนม 22 ชิ้น พี่ให้อีก 58 ชิ้น มายด์มีขนมทั้งหมดกี่ชิ้น"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🥨",
+      "item2": "🥨"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "gives",
+        "give",
+        "more",
+        "total",
+        "has",
+        "have"
+      ],
+      "keywordsTH": [
+        "ให้",
+        "อีก",
+        "ทั้งหมด"
+      ],
+      "item1Label": "snacks",
+      "item2Label": "snacks",
+      "isLargeNumber": true,
+      "emoji1": "🥨",
+      "emoji2": "🥨"
+    }
+  },
+  {
+    "id": 18,
+    "level": 18,
+    "math": {
+      "num1": 47,
+      "num2": 26,
+      "ans": 73
+    },
+    "narrative": {
+      "en": "One truck carries 47 boxes, and another truck carries 26 boxes. How many boxes are there in total?",
+      "th": "รถบรรทุกคันหนึ่งขนกล่อง 47 กล่อง อีกคันขน 26 กล่อง รถบรรทุกขนกล่องทั้งหมดกี่กล่อง"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🚗",
+      "item2": "📦"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "total",
+        "and"
+      ],
+      "keywordsTH": [
+        "อีก",
+        "ทั้งหมด"
+      ],
+      "item1Label": "boxes",
+      "item2Label": "boxes",
+      "isLargeNumber": true,
+      "emoji1": "🚗",
+      "emoji2": "📦"
+    }
+  },
+  {
+    "id": 19,
+    "level": 19,
+    "math": {
+      "num1": 125,
+      "num2": 134,
+      "ans": 259
+    },
+    "narrative": {
+      "en": "A school has 125 boys and 134 girls. How many students are there in the school in total?",
+      "th": "โรงเรียนมีนักเรียนชาย 125 คน และนักเรียนหญิง 134 คน โรงเรียนมีนักเรียนทั้งหมดกี่คน"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "🧒",
+      "item2": "🧒"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "total",
+        "and",
+        "has"
+      ],
+      "keywordsTH": [
+        "ทั้งหมด",
+        "และ"
+      ],
+      "item1Label": "boys  134 girls",
+      "item2Label": "boys  134 girls",
+      "isLargeNumber": true,
+      "emoji1": "🧒",
+      "emoji2": "🧒"
+    }
+  },
+  {
+    "id": 20,
+    "level": 20,
+    "math": {
+      "num1": 38,
+      "num2": 47,
+      "ans": 85
+    },
+    "narrative": {
+      "en": "An ice cream shop sells 38 cups in the morning and 47 cups in the afternoon. How many cups of ice cream does the shop sell in total?",
+      "th": "ร้านไอศกรีมขายไอศกรีมตอนเช้า 38 ถ้วย และตอนบ่าย 47 ถ้วย ร้านขายไอศกรีมได้ทั้งหมดกี่ถ้วย"
+    },
+    "theme": {
+      "id": "candy",
+      "item1": "🍦",
+      "item2": "🥤"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "total",
+        "and"
+      ],
+      "keywordsTH": [
+        "ทั้งหมด",
+        "และ"
+      ],
+      "item1Label": "cups in  morning  47 cups in  afternoon",
+      "item2Label": "cups in  morning  47 cups in  afternoon",
+      "isLargeNumber": true,
+      "emoji1": "🍦",
+      "emoji2": "🥤"
+    }
+  },
+  {
+    "id": 21,
+    "level": 21,
+    "math": {
+      "num1": 29,
+      "num2": 61,
+      "ans": 90
+    },
+    "narrative": {
+      "en": "Pan has 29 stickers. His mother gives him 61 more stickers. How many stickers does Pan have in total?",
+      "th": "น้องปันมีสติกเกอร์ 29 แผ่น แม่ให้อีก 61 แผ่น น้องปันมีสติกเกอร์ทั้งหมดกี่แผ่น"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "⭐",
+      "item2": "⭐"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "gives",
+        "give",
+        "more",
+        "total",
+        "has",
+        "have"
+      ],
+      "keywordsTH": [
+        "ให้",
+        "อีก",
+        "ทั้งหมด"
+      ],
+      "item1Label": "stickers",
+      "item2Label": "stickers",
+      "isLargeNumber": true,
+      "emoji1": "⭐",
+      "emoji2": "⭐"
+    }
+  },
+  {
+    "id": 22,
+    "level": 22,
+    "math": {
+      "num1": 34,
+      "num2": 28,
+      "ans": 62
+    },
+    "narrative": {
+      "en": "There are 34 birds on the trees near the house. Later, 28 more birds come. How many birds are there in total?",
+      "th": "ต้นไม้แถวบ้านมีนกเกาะ 34 ตัว ต่อมามาเพิ่มอีก 28 ตัว มีนกเกาะทั้งหมดกี่ตัว"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🌳",
+      "item2": "🐦"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "more",
+        "total"
+      ],
+      "keywordsTH": [
+        "อีก",
+        "เพิ่ม",
+        "ทั้งหมด",
+        "มาเพิ่ม"
+      ],
+      "item1Label": "birds on  trees near  house",
+      "item2Label": "birds come",
+      "isLargeNumber": true,
+      "emoji1": "🌳",
+      "emoji2": "🐦"
+    }
+  },
+  {
+    "id": 23,
+    "level": 23,
+    "math": {
+      "num1": 55,
+      "num2": 44,
+      "ans": 99
+    },
+    "narrative": {
+      "en": "One gift box has 55 balls, and the second box has 44 balls. How many balls are there in total?",
+      "th": "กล่องของขวัญใบหนึ่งมีลูกบอล 55 ลูก ใบที่สองมี 44 ลูก มีลูกบอลทั้งหมดกี่ลูก"
+    },
+    "theme": {
+      "id": "beach",
+      "item1": "⚽",
+      "item2": "📦"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "total",
+        "and",
+        "has"
+      ],
+      "keywordsTH": [
+        "ทั้งหมด"
+      ],
+      "item1Label": "balls",
+      "item2Label": "balls",
+      "isLargeNumber": true,
+      "emoji1": "⚽",
+      "emoji2": "📦"
+    }
+  },
+  {
+    "id": 24,
+    "level": 24,
+    "math": {
+      "num1": 62,
+      "num2": 37,
+      "ans": 99
+    },
+    "narrative": {
+      "en": "A toy shop has 62 toy cars and 37 dolls. How many toys are there in total?",
+      "th": "ร้านขายของเล่นมีรถของเล่น 62 คัน และมีตุ๊กตา 37 ตัว ร้านมีของเล่นทั้งหมดกี่ชิ้น"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🚗",
+      "item2": "🧸"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "total",
+        "and",
+        "has"
+      ],
+      "keywordsTH": [
+        "ทั้งหมด",
+        "และ"
+      ],
+      "item1Label": "toy cars  37 dolls",
+      "item2Label": "toy cars  37 dolls",
+      "isLargeNumber": true,
+      "emoji1": "🚗",
+      "emoji2": "🧸"
+    }
+  },
+  {
+    "id": 25,
+    "level": 25,
+    "math": {
+      "num1": 48,
+      "num2": 26,
+      "ans": 74
+    },
+    "narrative": {
+      "en": "Mother buys 48 chicken eggs and 26 duck eggs. How many eggs does she buy in total?",
+      "th": "แม่ซื้อไข่ไก่ 48 ฟอง และซื้อไข่เป็ด 26 ฟอง แม่ซื้อไข่ทั้งหมดกี่ฟอง"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🥚",
+      "item2": "🐔"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "total",
+        "and",
+        "buy",
+        "buys"
+      ],
+      "keywordsTH": [
+        "ทั้งหมด",
+        "และ",
+        "ซื้อ"
+      ],
+      "item1Label": "chicken eggs  26 duck eggs",
+      "item2Label": "chicken eggs  26 duck eggs",
+      "isLargeNumber": true,
+      "emoji1": "🥚",
+      "emoji2": "🐔"
+    }
+  },
+  {
+    "id": 26,
+    "level": 26,
+    "math": {
+      "num1": 73,
+      "num2": 19,
+      "ans": 92
+    },
+    "narrative": {
+      "en": "The children collect 73 bottles. In the afternoon, they collect 19 more bottles. How many bottles do they collect in total?",
+      "th": "เด็ก ๆ เก็บขวดน้ำได้ 73 ขวด ตอนบ่ายเก็บได้อีก 19 ขวด เด็ก ๆ เก็บขวดน้ำได้ทั้งหมดกี่ขวด"
+    },
+    "theme": {
+      "id": "beach",
+      "item1": "🧒",
+      "item2": "🍶"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "more",
+        "total",
+        "collect"
+      ],
+      "keywordsTH": [
+        "อีก",
+        "ทั้งหมด",
+        "เก็บ"
+      ],
+      "item1Label": "bottles",
+      "item2Label": "bottles",
+      "isLargeNumber": true,
+      "emoji1": "🧒",
+      "emoji2": "🍶"
+    }
+  },
+  {
+    "id": 27,
+    "level": 27,
+    "math": {
+      "num1": 45,
+      "num2": 35,
+      "ans": 80
+    },
+    "narrative": {
+      "en": "Aunt Daeng makes 45 snacks. In the evening, she makes 35 more snacks. How many snacks does Aunt Daeng make in total?",
+      "th": "ป้าแดงทำขนม 45 ชิ้น ตอนเย็นทำเพิ่มอีก 35 ชิ้น ป้าแดงทำขนมทั้งหมดกี่ชิ้น"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🥨",
+      "item2": "🥨"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "more",
+        "total",
+        "makes"
+      ],
+      "keywordsTH": [
+        "อีก",
+        "เพิ่ม",
+        "ทั้งหมด"
+      ],
+      "item1Label": "snacks",
+      "item2Label": "snacks",
+      "isLargeNumber": true,
+      "emoji1": "🥨",
+      "emoji2": "🥨"
+    }
+  },
+  {
+    "id": 28,
+    "level": 28,
+    "math": {
+      "num1": 57,
+      "num2": 18,
+      "ans": 75
+    },
+    "narrative": {
+      "en": "One tray has 57 oranges, and another tray has 18 oranges. How many oranges are there in total?",
+      "th": "ถาดหนึ่งมีส้ม 57 ลูก อีกถาดมี 18 ลูก มีส้มทั้งหมดกี่ลูก"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🍊",
+      "item2": "🍽️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "total",
+        "and",
+        "has"
+      ],
+      "keywordsTH": [
+        "อีก",
+        "ทั้งหมด"
+      ],
+      "item1Label": "oranges",
+      "item2Label": "oranges",
+      "isLargeNumber": true,
+      "emoji1": "🍊",
+      "emoji2": "🍽️"
+    }
+  },
+  {
+    "id": 29,
+    "level": 29,
+    "math": {
+      "num1": 32,
+      "num2": 28,
+      "ans": 60
+    },
+    "narrative": {
+      "en": "A classroom has 32 chairs and 28 tables. How many pieces of furniture are there in total?",
+      "th": "ห้องเรียนมีเก้าอี้ 32 ตัว และมีโต๊ะ 28 ตัว ห้องเรียนมีเฟอร์นิเจอร์ทั้งหมดกี่ชิ้น"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🪑",
+      "item2": "🪑"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "total",
+        "and",
+        "has"
+      ],
+      "keywordsTH": [
+        "ทั้งหมด",
+        "และ"
+      ],
+      "item1Label": "chairs  28 tables",
+      "item2Label": "chairs  28 tables",
+      "isLargeNumber": true,
+      "emoji1": "🪑",
+      "emoji2": "🪑"
+    }
+  },
+  {
+    "id": 30,
+    "level": 30,
+    "math": {
+      "num1": 84,
+      "num2": 15,
+      "ans": 99
+    },
+    "narrative": {
+      "en": "A fish farm has 84 tilapia and 15 catfish. How many fish are there in total?",
+      "th": "ฟาร์มปลามีปลานิล 84 ตัว และปลาดุก 15 ตัว ฟาร์มปลามีปลาทั้งหมดกี่ตัว"
+    },
+    "theme": {
+      "id": "beach",
+      "item1": "🐟",
+      "item2": "🐟"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "total",
+        "and",
+        "has"
+      ],
+      "keywordsTH": [
+        "ทั้งหมด",
+        "และ"
+      ],
+      "item1Label": "tilapia  15 catfish",
+      "item2Label": "tilapia  15 catfish",
+      "isLargeNumber": true,
+      "emoji1": "🐟",
+      "emoji2": "🐟"
+    }
+  },
+  {
+    "id": 31,
+    "level": 31,
+    "math": {
+      "num1": 27,
+      "num2": 43,
+      "ans": 70
+    },
+    "narrative": {
+      "en": "Fon draws 27 pictures. The teacher gives her 43 more pictures. How many pictures does Fon have in total?",
+      "th": "น้องฝนวาดรูปได้ 27 รูป ครูให้อีก 43 รูป น้องฝนวาดรูปทั้งหมดกี่รูป"
+    },
+    "theme": {
+      "id": "candy",
+      "item1": "🖼️",
+      "item2": "🖼️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "gives",
+        "give",
+        "more",
+        "total",
+        "have"
+      ],
+      "keywordsTH": [
+        "ให้",
+        "อีก",
+        "ทั้งหมด"
+      ],
+      "item1Label": "pictures",
+      "item2Label": "pictures",
+      "isLargeNumber": true,
+      "emoji1": "🖼️",
+      "emoji2": "🖼️"
+    }
+  },
+  {
+    "id": 32,
+    "level": 32,
+    "math": {
+      "num1": 56,
+      "num2": 24,
+      "ans": 80
+    },
+    "narrative": {
+      "en": "A snack shop sells 56 cookies and 24 cakes. How many snacks does the shop sell in total?",
+      "th": "ร้านขนมขายคุกกี้ได้ 56 ชิ้น และขายเค้กได้ 24 ชิ้น ร้านขายขนมได้ทั้งหมดกี่ชิ้น"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🍪",
+      "item2": "🥨"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "total",
+        "and"
+      ],
+      "keywordsTH": [
+        "ทั้งหมด",
+        "และ"
+      ],
+      "item1Label": "cookies  24 cakes",
+      "item2Label": "cookies  24 cakes",
+      "isLargeNumber": true,
+      "emoji1": "🍪",
+      "emoji2": "🥨"
+    }
+  },
+  {
+    "id": 33,
+    "level": 33,
+    "math": {
+      "num1": 68,
+      "num2": 21,
+      "ans": 89
+    },
+    "narrative": {
+      "en": "A flower garden has 68 roses and 21 tulips. How many flowers are there in total?",
+      "th": "สวนดอกไม้มีดอกกุหลาบ 68 ดอก และดอกทิวลิป 21 ดอก สวนมีดอกไม้ทั้งหมดกี่ดอก"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🌸",
+      "item2": "🌹"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "total",
+        "and",
+        "has"
+      ],
+      "keywordsTH": [
+        "ทั้งหมด",
+        "และ"
+      ],
+      "item1Label": "roses  21 tulips",
+      "item2Label": "roses  21 tulips",
+      "isLargeNumber": true,
+      "emoji1": "🌸",
+      "emoji2": "🌹"
+    }
+  },
+  {
+    "id": 34,
+    "level": 34,
+    "math": {
+      "num1": 45,
+      "num2": 39,
+      "ans": 84
+    },
+    "narrative": {
+      "en": "A bus carries 45 students in the morning and picks up 39 more students. How many students are on the bus in total?",
+      "th": "รถบัสรับนักเรียนตอนเช้า 45 คน และรับเพิ่มอีก 39 คน รถบัสรับนักเรียนทั้งหมดกี่คน"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "🚗",
+      "item2": "🧒"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "more",
+        "total",
+        "and"
+      ],
+      "keywordsTH": [
+        "อีก",
+        "เพิ่ม",
+        "ทั้งหมด",
+        "และ"
+      ],
+      "item1Label": "students in  morning  picks up 39  students",
+      "item2Label": "students in  morning  picks up 39  students",
+      "isLargeNumber": true,
+      "emoji1": "🚗",
+      "emoji2": "🧒"
+    }
+  },
+  {
+    "id": 35,
+    "level": 35,
+    "math": {
+      "num1": 14,
+      "num2": 6,
+      "ans": 20
+    },
+    "narrative": {
+      "en": "A house has 14 windows and 6 doors. How many openings are there in total?",
+      "th": "บ้านหลังหนึ่งมีหน้าต่าง 14 บาน และมีประตู 6 บาน บ้านหลังนี้มีช่องเปิดทั้งหมดกี่บาน"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "🖊️",
+      "item2": "🪟"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "total",
+        "and",
+        "has"
+      ],
+      "keywordsTH": [
+        "ทั้งหมด",
+        "และ"
+      ],
+      "item1Label": "windows  6 doors",
+      "item2Label": "windows  6 doors",
+      "isLargeNumber": true,
+      "emoji1": "🖊️",
+      "emoji2": "🪟"
+    }
+  },
+  {
+    "id": 36,
+    "level": 36,
+    "math": {
+      "num1": 52,
+      "num2": 38,
+      "ans": 90
+    },
+    "narrative": {
+      "en": "A drink shop has 52 bottles of orange juice and 38 bottles of grape juice. How many bottles are there in total?",
+      "th": "ร้านขายน้ำมีน้ำส้ม 52 ขวด และน้ำองุ่น 38 ขวด ร้านมีน้ำทั้งหมดกี่ขวด"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🧃",
+      "item2": "🍊"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "total",
+        "and",
+        "has"
+      ],
+      "keywordsTH": [
+        "ทั้งหมด",
+        "และ"
+      ],
+      "item1Label": "bottles of orange juice  38 bottles of grape juice",
+      "item2Label": "bottles of orange juice  38 bottles of grape juice",
+      "isLargeNumber": true,
+      "emoji1": "🧃",
+      "emoji2": "🍊"
+    }
+  },
+  {
+    "id": 37,
+    "level": 37,
+    "math": {
+      "num1": 67,
+      "num2": 23,
+      "ans": 90
+    },
+    "narrative": {
+      "en": "Aom has 67 coins. Her father gives her 23 more coins. How many coins does Aom have in total?",
+      "th": "เด็กหญิงออมมีเหรียญ 67 เหรียญ พ่อให้อีก 23 เหรียญ ออมมีเหรียญทั้งหมดกี่เหรียญ"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🪙",
+      "item2": "🪙"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "gives",
+        "give",
+        "more",
+        "total",
+        "has",
+        "have"
+      ],
+      "keywordsTH": [
+        "ให้",
+        "อีก",
+        "ทั้งหมด"
+      ],
+      "item1Label": "coins",
+      "item2Label": "coins",
+      "isLargeNumber": true,
+      "emoji1": "🪙",
+      "emoji2": "🪙"
+    }
+  },
+  {
+    "id": 38,
+    "level": 38,
+    "math": {
+      "num1": 48,
+      "num2": 27,
+      "ans": 75
+    },
+    "narrative": {
+      "en": "A playground has 48 balls and 27 hoops. How many pieces of equipment are there in total?",
+      "th": "สนามเด็กเล่นมีลูกบอล 48 ลูก และมีห่วง 27 อัน สนามเด็กเล่นมีอุปกรณ์ทั้งหมดกี่ชิ้น"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "⚽",
+      "item2": "⭕"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "total",
+        "and",
+        "has"
+      ],
+      "keywordsTH": [
+        "ทั้งหมด",
+        "และ"
+      ],
+      "item1Label": "balls  27 hoops",
+      "item2Label": "balls  27 hoops",
+      "isLargeNumber": true,
+      "emoji1": "⚽",
+      "emoji2": "⭕"
+    }
+  },
+  {
+    "id": 39,
+    "level": 39,
+    "math": {
+      "num1": 36,
+      "num2": 54,
+      "ans": 90
+    },
+    "narrative": {
+      "en": "One box has 36 pieces of chalk, and another box has 54 pieces of chalk. How many pieces of chalk are there in total?",
+      "th": "กล่องหนึ่งมีชอล์ก 36 แท่ง อีกกล่องมี 54 แท่ง มีชอล์กทั้งหมดกี่แท่ง"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "🖍️",
+      "item2": "📦"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "total",
+        "and",
+        "has"
+      ],
+      "keywordsTH": [
+        "อีก",
+        "ทั้งหมด"
+      ],
+      "item1Label": "pieces of chalk",
+      "item2Label": "pieces of chalk",
+      "isLargeNumber": true,
+      "emoji1": "🖍️",
+      "emoji2": "📦"
+    }
+  },
+  {
+    "id": 40,
+    "level": 40,
+    "math": {
+      "num1": 95,
+      "num2": 28,
+      "ans": 123
+    },
+    "narrative": {
+      "en": "The school canteen prepares 95 lunch boxes and makes 28 more lunch boxes. How many lunch boxes does the canteen prepare in total?",
+      "th": "โรงอาหารทำข้าวกล่อง 95 กล่อง และทำเพิ่มอีก 28 กล่อง โรงอาหารทำข้าวกล่องทั้งหมดกี่กล่อง"
+    },
+    "theme": {
+      "id": "candy",
+      "item1": "🍱",
+      "item2": "📦"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "addition"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "more",
+        "total",
+        "and",
+        "prepare",
+        "prepares",
+        "makes"
+      ],
+      "keywordsTH": [
+        "อีก",
+        "เพิ่ม",
+        "ทั้งหมด",
+        "และ"
+      ],
+      "item1Label": "lunch boxes  makes 28  lunch boxes",
+      "item2Label": "lunch boxes  makes 28  lunch boxes",
+      "isLargeNumber": true,
+      "emoji1": "🍱",
+      "emoji2": "📦"
+    }
+  }
+]

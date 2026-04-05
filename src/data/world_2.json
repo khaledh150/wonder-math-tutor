@@ -1,0 +1,1484 @@
+[
+  {
+    "id": 41,
+    "level": 41,
+    "math": {
+      "num1": 78,
+      "num2": 35,
+      "ans": 43
+    },
+    "narrative": {
+      "en": "Kaew has 78 candies. She gives 35 candies to her friends. How many candies does Kaew have left?",
+      "th": "แก้วมีลูกอม 78 เม็ด แจกให้เพื่อน 35 เม็ด แก้วเหลือลูกอมกี่เม็ด"
+    },
+    "theme": {
+      "id": "candy",
+      "item1": "🍬",
+      "item2": "🍬"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "left",
+        "gives",
+        "give"
+      ],
+      "keywordsTH": [
+        "เหลือ",
+        "ให้"
+      ],
+      "item1Label": "candies",
+      "item2Label": "candies to her friends",
+      "isLargeNumber": true,
+      "emoji1": "🍬",
+      "emoji2": "🍬"
+    }
+  },
+  {
+    "id": 42,
+    "level": 42,
+    "math": {
+      "num1": 64,
+      "num2": 18,
+      "ans": 46
+    },
+    "narrative": {
+      "en": "Ball has 64 pencils. He loses 18 pencils. How many pencils does Ball have left?",
+      "th": "บอลมีดินสอ 64 แท่ง ทำหายไป 18 แท่ง บอลเหลือดินสอกี่แท่ง"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "✏️",
+      "item2": "🖊️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "left",
+        "lose",
+        "loses"
+      ],
+      "keywordsTH": [
+        "เหลือ",
+        "หาย"
+      ],
+      "item1Label": "pencils",
+      "item2Label": "pencils",
+      "isLargeNumber": true,
+      "emoji1": "✏️",
+      "emoji2": "🖊️"
+    }
+  },
+  {
+    "id": 43,
+    "level": 43,
+    "math": {
+      "num1": 95,
+      "num2": 47,
+      "ans": 48
+    },
+    "narrative": {
+      "en": "A snack shop makes 95 cookies. It sells 47 cookies. How many cookies are left?",
+      "th": "ร้านขนมทำคุกกี้ 95 ชิ้น ขายไป 47 ชิ้น ร้านเหลือคุกกี้กี่ชิ้น"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🍪",
+      "item2": "🥨"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "left",
+        "sell",
+        "sells"
+      ],
+      "keywordsTH": [
+        "เหลือ",
+        "ขาย"
+      ],
+      "item1Label": "cookies",
+      "item2Label": "cookies",
+      "isLargeNumber": true,
+      "emoji1": "🍪",
+      "emoji2": "🥨"
+    }
+  },
+  {
+    "id": 44,
+    "level": 44,
+    "math": {
+      "num1": 86,
+      "num2": 29,
+      "ans": 57
+    },
+    "narrative": {
+      "en": "Nid collects 86 shells. She gives 29 shells to her friend. How many shells does Nid have left?",
+      "th": "นิดเก็บเปลือกหอยได้ 86 อัน ให้เพื่อนไป 29 อัน นิดเหลือเปลือกหอยกี่อัน"
+    },
+    "theme": {
+      "id": "beach",
+      "item1": "🐚",
+      "item2": "🐚"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "left",
+        "gives",
+        "give"
+      ],
+      "keywordsTH": [
+        "เหลือ",
+        "ให้"
+      ],
+      "item1Label": "shells",
+      "item2Label": "shells to her friend",
+      "isLargeNumber": true,
+      "emoji1": "🐚",
+      "emoji2": "🐚"
+    }
+  },
+  {
+    "id": 45,
+    "level": 45,
+    "math": {
+      "num1": 120,
+      "num2": 45,
+      "ans": 75
+    },
+    "narrative": {
+      "en": "A fruit garden has 120 oranges. It sells 45 oranges. How many oranges are left?",
+      "th": "สวนผลไม้มีส้ม 120 ลูก เก็บไปขาย 45 ลูก สวนผลไม้เหลือส้มกี่ลูก"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🍊",
+      "item2": "🍎"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "left",
+        "sell",
+        "sells"
+      ],
+      "keywordsTH": [
+        "เหลือ",
+        "ขาย"
+      ],
+      "item1Label": "oranges",
+      "item2Label": "oranges",
+      "isLargeNumber": true,
+      "emoji1": "🍊",
+      "emoji2": "🍎"
+    }
+  },
+  {
+    "id": 46,
+    "level": 46,
+    "math": {
+      "num1": 150,
+      "num2": 38,
+      "ans": 112
+    },
+    "narrative": {
+      "en": "The library has 150 storybooks. 38 storybooks are borrowed. How many storybooks are left?",
+      "th": "ห้องสมุดมีหนังสือนิทาน 150 เล่ม ยืมออกไป 38 เล่ม ห้องสมุดเหลือหนังสือนิทานกี่เล่ม"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "📚",
+      "item2": "📔"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "left",
+        "borrowed"
+      ],
+      "keywordsTH": [
+        "เหลือ",
+        "ยืม"
+      ],
+      "item1Label": "storybooks",
+      "item2Label": "storybooks  borrowed",
+      "isLargeNumber": true,
+      "emoji1": "📚",
+      "emoji2": "📔"
+    }
+  },
+  {
+    "id": 47,
+    "level": 47,
+    "math": {
+      "num1": 240,
+      "num2": 27,
+      "ans": 213
+    },
+    "narrative": {
+      "en": "A school has 240 students. 27 students are absent. How many students come to school today?",
+      "th": "โรงเรียนมีนักเรียน 240 คน ขาดเรียน 27 คน วันนี้มีนักเรียนมาเรียนกี่คน"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "🧒",
+      "item2": "🐦"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "absent"
+      ],
+      "keywordsTH": [],
+      "item1Label": "students",
+      "item2Label": "students  absent",
+      "isLargeNumber": true,
+      "emoji1": "🧒",
+      "emoji2": "🐦"
+    }
+  },
+  {
+    "id": 48,
+    "level": 48,
+    "math": {
+      "num1": 80,
+      "num2": 52,
+      "ans": 28
+    },
+    "narrative": {
+      "en": "An ice cream shop makes 80 cups of ice cream. It sells 52 cups. How many cups are left?",
+      "th": "ร้านไอศกรีมทำไอศกรีม 80 ถ้วย ขายไป 52 ถ้วย ร้านเหลือไอศกรีมกี่ถ้วย"
+    },
+    "theme": {
+      "id": "candy",
+      "item1": "🍦",
+      "item2": "🥤"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "left",
+        "sell",
+        "sells"
+      ],
+      "keywordsTH": [
+        "เหลือ",
+        "ขาย"
+      ],
+      "item1Label": "cups of ice cream",
+      "item2Label": "cups",
+      "isLargeNumber": true,
+      "emoji1": "🍦",
+      "emoji2": "🥤"
+    }
+  },
+  {
+    "id": 49,
+    "level": 49,
+    "math": {
+      "num1": 93,
+      "num2": 46,
+      "ans": 47
+    },
+    "narrative": {
+      "en": "Pan has 93 stickers. He uses 46 stickers. How many stickers does Pan have left?",
+      "th": "น้องปันมีสติกเกอร์ 93 แผ่น ติดไปแล้ว 46 แผ่น น้องปันเหลือสติกเกอร์กี่แผ่น"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "⭐",
+      "item2": "⭐"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "left",
+        "uses",
+        "use"
+      ],
+      "keywordsTH": [
+        "เหลือ"
+      ],
+      "item1Label": "stickers",
+      "item2Label": "stickers",
+      "isLargeNumber": true,
+      "emoji1": "⭐",
+      "emoji2": "⭐"
+    }
+  },
+  {
+    "id": 50,
+    "level": 50,
+    "math": {
+      "num1": 70,
+      "num2": 28,
+      "ans": 42
+    },
+    "narrative": {
+      "en": "Ton has 70 marbles. He gives 28 marbles to his friend. How many marbles does Ton have left?",
+      "th": "ต้นมีลูกแก้ว 70 ลูก ให้เพื่อนไป 28 ลูก ต้นเหลือลูกแก้วกี่ลูก"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🔮",
+      "item2": "🔮"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "left",
+        "gives",
+        "give"
+      ],
+      "keywordsTH": [
+        "เหลือ",
+        "ให้"
+      ],
+      "item1Label": "marbles",
+      "item2Label": "marbles to his friend",
+      "isLargeNumber": true,
+      "emoji1": "🔮",
+      "emoji2": "🔮"
+    }
+  },
+  {
+    "id": 51,
+    "level": 51,
+    "math": {
+      "num1": 60,
+      "num2": 17,
+      "ans": 43
+    },
+    "narrative": {
+      "en": "Mother buys 60 chicken eggs. She uses 17 eggs for cooking. How many eggs are left?",
+      "th": "แม่ซื้อไข่ไก่ 60 ฟอง ทำอาหารไป 17 ฟอง แม่เหลือไข่ไก่กี่ฟอง"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🥚",
+      "item2": "🐔"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "left",
+        "uses",
+        "use"
+      ],
+      "keywordsTH": [
+        "เหลือ"
+      ],
+      "item1Label": "chicken eggs",
+      "item2Label": "eggs for cooking",
+      "isLargeNumber": true,
+      "emoji1": "🥚",
+      "emoji2": "🐔"
+    }
+  },
+  {
+    "id": 52,
+    "level": 52,
+    "math": {
+      "num1": 85,
+      "num2": 39,
+      "ans": 46
+    },
+    "narrative": {
+      "en": "A toy shop has 85 toy cars. It sells 39 toy cars. How many toy cars are left?",
+      "th": "ร้านของเล่นมีรถของเล่น 85 คัน ขายไป 39 คัน ร้านเหลือรถของเล่นกี่คัน"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🚗",
+      "item2": "🧸"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "left",
+        "sell",
+        "sells"
+      ],
+      "keywordsTH": [
+        "เหลือ",
+        "ขาย"
+      ],
+      "item1Label": "toy cars",
+      "item2Label": "toy cars",
+      "isLargeNumber": true,
+      "emoji1": "🚗",
+      "emoji2": "🧸"
+    }
+  },
+  {
+    "id": 53,
+    "level": 53,
+    "math": {
+      "num1": 96,
+      "num2": 24,
+      "ans": 72
+    },
+    "narrative": {
+      "en": "The zoo has 96 birds. 24 birds fly away. How many birds are left?",
+      "th": "สวนสัตว์มีนก 96 ตัว บินหนีไป 24 ตัว สวนสัตว์เหลือนกกี่ตัว"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🐦",
+      "item2": "🐦"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "left",
+        "away"
+      ],
+      "keywordsTH": [
+        "เหลือ"
+      ],
+      "item1Label": "birds",
+      "item2Label": "birds fly away",
+      "isLargeNumber": true,
+      "emoji1": "🐦",
+      "emoji2": "🐦"
+    }
+  },
+  {
+    "id": 54,
+    "level": 54,
+    "math": {
+      "num1": 72,
+      "num2": 30,
+      "ans": 42
+    },
+    "narrative": {
+      "en": "A box has 72 colored pencils. 30 pencils are given to the children. How many colored pencils are left in the box?",
+      "th": "กล่องหนึ่งมีดินสอสี 72 แท่ง แจกให้เด็ก ๆ 30 แท่ง เหลือดินสอสีในกล่องกี่แท่ง"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "🖍️",
+      "item2": "✏️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "left",
+        "give"
+      ],
+      "keywordsTH": [
+        "เหลือ",
+        "ให้"
+      ],
+      "item1Label": "colored pencils",
+      "item2Label": "pencils  given to  children",
+      "isLargeNumber": true,
+      "emoji1": "🖍️",
+      "emoji2": "✏️"
+    }
+  },
+  {
+    "id": 55,
+    "level": 55,
+    "math": {
+      "num1": 130,
+      "num2": 55,
+      "ans": 75
+    },
+    "narrative": {
+      "en": "The school canteen prepares 130 lunch boxes. It gives out 55 lunch boxes. How many lunch boxes are left?",
+      "th": "โรงอาหารทำข้าวกล่อง 130 กล่อง แจกไป 55 กล่อง โรงอาหารเหลือข้าวกล่องกี่กล่อง"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🍱",
+      "item2": "📦"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "left",
+        "gives",
+        "give"
+      ],
+      "keywordsTH": [
+        "เหลือ"
+      ],
+      "item1Label": "lunch boxes",
+      "item2Label": "lunch boxes",
+      "isLargeNumber": true,
+      "emoji1": "🍱",
+      "emoji2": "📦"
+    }
+  },
+  {
+    "id": 56,
+    "level": 56,
+    "math": {
+      "num1": 105,
+      "num2": 68,
+      "ans": 37
+    },
+    "narrative": {
+      "en": "An aunt makes 105 snacks. She sells 68 snacks. How many snacks are left?",
+      "th": "ป้าทำขนม 105 ชิ้น ขายไป 68 ชิ้น ป้าเหลือขนมกี่ชิ้น"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🥨",
+      "item2": "🥨"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "left",
+        "sell",
+        "sells"
+      ],
+      "keywordsTH": [
+        "เหลือ",
+        "ขาย"
+      ],
+      "item1Label": "snacks",
+      "item2Label": "snacks",
+      "isLargeNumber": true,
+      "emoji1": "🥨",
+      "emoji2": "🥨"
+    }
+  },
+  {
+    "id": 57,
+    "level": 57,
+    "math": {
+      "num1": 84,
+      "num2": 26,
+      "ans": 58
+    },
+    "narrative": {
+      "en": "Fah has 84 flowers. She gives 26 flowers to her teacher. How many flowers does Fah have left?",
+      "th": "ฟ้ามีดอกไม้ 84 ดอก ให้คุณครู 26 ดอก ฟ้าเหลือดอกไม้กี่ดอก"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🌸",
+      "item2": "🌸"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "left",
+        "gives",
+        "give"
+      ],
+      "keywordsTH": [
+        "เหลือ",
+        "ให้"
+      ],
+      "item1Label": "flowers",
+      "item2Label": "flowers to her teacher",
+      "isLargeNumber": true,
+      "emoji1": "🌸",
+      "emoji2": "🌸"
+    }
+  },
+  {
+    "id": 58,
+    "level": 58,
+    "math": {
+      "num1": 75,
+      "num2": 19,
+      "ans": 56
+    },
+    "narrative": {
+      "en": "A bus picks up 75 students. 19 students get off the bus. How many students are on the bus now?",
+      "th": "รถบัสรับนักเรียนมา 75 คน ลงจากรถ 19 คน ตอนนี้บนรถมีนักเรียนกี่คน"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "🧒",
+      "item2": "🐦"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [],
+      "keywordsTH": [],
+      "item1Label": "students",
+      "item2Label": "students get off  bus",
+      "isLargeNumber": true,
+      "emoji1": "🧒",
+      "emoji2": "🐦"
+    }
+  },
+  {
+    "id": 59,
+    "level": 59,
+    "math": {
+      "num1": 58,
+      "num2": 12,
+      "ans": 46
+    },
+    "narrative": {
+      "en": "An aquarium has 58 fish. 12 fish die. How many fish are left?",
+      "th": "ตู้ปลามีปลา 58 ตัว ตายไป 12 ตัว ตู้ปลาเหลือปลากี่ตัว"
+    },
+    "theme": {
+      "id": "beach",
+      "item1": "🐟",
+      "item2": "🐟"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "left"
+      ],
+      "keywordsTH": [
+        "เหลือ"
+      ],
+      "item1Label": "fish",
+      "item2Label": "fish die",
+      "isLargeNumber": true,
+      "emoji1": "🐟",
+      "emoji2": "🐟"
+    }
+  },
+  {
+    "id": 60,
+    "level": 60,
+    "math": {
+      "num1": 100,
+      "num2": 43,
+      "ans": 57
+    },
+    "narrative": {
+      "en": "A drink shop has 100 bottles of orange juice. It sells 43 bottles. How many bottles of orange juice are left?",
+      "th": "ร้านขายน้ำมีน้ำส้ม 100 ขวด ขายไป 43 ขวด ร้านเหลือน้ำส้มกี่ขวด"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🧃",
+      "item2": "🍊"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "left",
+        "sell",
+        "sells"
+      ],
+      "keywordsTH": [
+        "เหลือ",
+        "ขาย"
+      ],
+      "item1Label": "bottles of orange juice",
+      "item2Label": "bottles",
+      "isLargeNumber": true,
+      "emoji1": "🧃",
+      "emoji2": "🍊"
+    }
+  },
+  {
+    "id": 61,
+    "level": 61,
+    "math": {
+      "num1": 90,
+      "num2": 37,
+      "ans": 127
+    },
+    "narrative": {
+      "en": "A box has 90 pieces of chalk. 37 pieces are used. How many pieces of chalk are left?",
+      "th": "กล่องชอล์กมีชอล์ก 90 แท่ง ใช้ไป 37 แท่ง เหลือชอล์กกี่แท่ง"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "🖍️",
+      "item2": "📦"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "mixed addition & subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "has"
+      ],
+      "keywordsTH": [],
+      "item1Label": "pieces of chalk",
+      "item2Label": "pieces  used",
+      "isLargeNumber": true,
+      "emoji1": "🖍️",
+      "emoji2": "📦"
+    }
+  },
+  {
+    "id": 62,
+    "level": 62,
+    "math": {
+      "num1": 120,
+      "num2": 40,
+      "ans": 160
+    },
+    "narrative": {
+      "en": "The children collect 120 bottles. They send 40 bottles for recycling. How many bottles are left?",
+      "th": "เด็ก ๆ เก็บขวดน้ำได้ 120 ขวด ส่งไปรีไซเคิล 40 ขวด เด็ก ๆ เหลือขวดน้ำกี่ขวด"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🧒",
+      "item2": "🍶"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "mixed addition & subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "collect"
+      ],
+      "keywordsTH": [
+        "เก็บ"
+      ],
+      "item1Label": "bottles",
+      "item2Label": "bottles for recycling",
+      "isLargeNumber": true,
+      "emoji1": "🧒",
+      "emoji2": "🍶"
+    }
+  },
+  {
+    "id": 63,
+    "level": 63,
+    "math": {
+      "num1": 95,
+      "num2": 28,
+      "ans": 123
+    },
+    "narrative": {
+      "en": "Aom has 95 coins. She spends 28 coins on snacks. How many coins does Aom have left?",
+      "th": "น้องออมมีเหรียญ 95 เหรียญ ซื้อขนมไป 28 เหรียญ น้องออมเหลือเหรียญกี่เหรียญ"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "🖊️",
+      "item2": "🥨"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "mixed addition & subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "has",
+        "have"
+      ],
+      "keywordsTH": [
+        "ซื้อ"
+      ],
+      "item1Label": "coins",
+      "item2Label": "coins on snacks",
+      "isLargeNumber": true,
+      "emoji1": "🖊️",
+      "emoji2": "🥨"
+    }
+  },
+  {
+    "id": 64,
+    "level": 64,
+    "math": {
+      "num1": 88,
+      "num2": 35,
+      "ans": 123
+    },
+    "narrative": {
+      "en": "A stationery shop has 88 notebooks. It sells 35 notebooks. How many notebooks are left?",
+      "th": "ร้านเครื่องเขียนมีสมุด 88 เล่ม ขายไป 35 เล่ม ร้านเหลือสมุดกี่เล่ม"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "📔",
+      "item2": "📚"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "mixed addition & subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "has"
+      ],
+      "keywordsTH": [],
+      "item1Label": "notebooks",
+      "item2Label": "notebooks",
+      "isLargeNumber": true,
+      "emoji1": "📔",
+      "emoji2": "📚"
+    }
+  },
+  {
+    "id": 65,
+    "level": 65,
+    "math": {
+      "num1": 140,
+      "num2": 67,
+      "ans": 207
+    },
+    "narrative": {
+      "en": "A flower garden has 140 roses. 67 roses are cut and sold. How many roses are left?",
+      "th": "สวนดอกไม้มีดอกกุหลาบ 140 ดอก ตัดไปขาย 67 ดอก เหลือดอกกุหลาบกี่ดอก"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🌸",
+      "item2": "🌹"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "mixed addition & subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "and",
+        "has"
+      ],
+      "keywordsTH": [],
+      "item1Label": "roses",
+      "item2Label": "roses  cut  sold",
+      "isLargeNumber": true,
+      "emoji1": "🌸",
+      "emoji2": "🌹"
+    }
+  },
+  {
+    "id": 66,
+    "level": 66,
+    "math": {
+      "num1": 60,
+      "num2": 22,
+      "ans": 82
+    },
+    "narrative": {
+      "en": "A playground has 60 balls. The children take 22 balls to play. How many balls are left?",
+      "th": "สนามเด็กเล่นมีลูกบอล 60 ลูก เด็ก ๆ เอาไปเล่น 22 ลูก สนามเหลือลูกบอลกี่ลูก"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "⚽",
+      "item2": "🧒"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "mixed addition & subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "has"
+      ],
+      "keywordsTH": [],
+      "item1Label": "balls",
+      "item2Label": "balls to play",
+      "isLargeNumber": true,
+      "emoji1": "⚽",
+      "emoji2": "🧒"
+    }
+  },
+  {
+    "id": 67,
+    "level": 67,
+    "math": {
+      "num1": 75,
+      "num2": 8,
+      "ans": 83
+    },
+    "narrative": {
+      "en": "A school has 75 tables. 8 tables are broken. How many tables can still be used?",
+      "th": "โรงเรียนมีโต๊ะ 75 ตัว ชำรุด 8 ตัว ใช้ได้กี่ตัว"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🪑",
+      "item2": "🪑"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "mixed addition & subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "has"
+      ],
+      "keywordsTH": [],
+      "item1Label": "tables",
+      "item2Label": "tables  broken",
+      "isLargeNumber": true,
+      "emoji1": "🪑",
+      "emoji2": "🪑"
+    }
+  },
+  {
+    "id": 68,
+    "level": 68,
+    "math": {
+      "num1": 20,
+      "num2": 6,
+      "ans": 26
+    },
+    "narrative": {
+      "en": "A house has 20 windows. 6 windows are closed for repair. How many windows can be used now?",
+      "th": "บ้านหลังหนึ่งมีหน้าต่าง 20 บาน ซ่อมปิดไป 6 บาน ตอนนี้มีหน้าต่างที่ใช้งานได้กี่บาน"
+    },
+    "theme": {
+      "id": "beach",
+      "item1": "🪟",
+      "item2": "📦"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "mixed addition & subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "has"
+      ],
+      "keywordsTH": [],
+      "item1Label": "windows",
+      "item2Label": "windows  closed for repair",
+      "isLargeNumber": true,
+      "emoji1": "🪟",
+      "emoji2": "📦"
+    }
+  },
+  {
+    "id": 69,
+    "level": 69,
+    "math": {
+      "num1": 96,
+      "num2": 45,
+      "ans": 141
+    },
+    "narrative": {
+      "en": "An uncle has 96 mangoes. He gives 45 mangoes to his neighbors. How many mangoes does he have left?",
+      "th": "ลุงมีมะม่วง 96 ลูก แจกให้เพื่อนบ้าน 45 ลูก ลุงเหลือมะม่วงกี่ลูก"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🥭",
+      "item2": "🥭"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "mixed addition & subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "gives",
+        "give",
+        "has",
+        "have"
+      ],
+      "keywordsTH": [
+        "ให้"
+      ],
+      "item1Label": "mangoes",
+      "item2Label": "mangoes to his neighbors",
+      "isLargeNumber": true,
+      "emoji1": "🥭",
+      "emoji2": "🥭"
+    }
+  },
+  {
+    "id": 70,
+    "level": 70,
+    "math": {
+      "num1": 110,
+      "num2": 74,
+      "ans": 184
+    },
+    "narrative": {
+      "en": "A bag has 110 snacks. The children eat 74 snacks. How many snacks are left?",
+      "th": "ถุงขนมมีขนม 110 ชิ้น เด็ก ๆ กินไป 74 ชิ้น เหลือขนมกี่ชิ้น"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🥨",
+      "item2": "🧒"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "mixed addition & subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "has"
+      ],
+      "keywordsTH": [],
+      "item1Label": "snacks",
+      "item2Label": "snacks",
+      "isLargeNumber": true,
+      "emoji1": "🥨",
+      "emoji2": "🧒"
+    }
+  },
+  {
+    "id": 71,
+    "level": 71,
+    "math": {
+      "num1": 150,
+      "num2": 58,
+      "ans": 208
+    },
+    "narrative": {
+      "en": "A bookstore has 150 comic books. It sells 58 comic books. How many comic books are left?",
+      "th": "ร้านหนังสือมีหนังสือการ์ตูน 150 เล่ม ขายไป 58 เล่ม ร้านเหลือหนังสือการ์ตูนกี่เล่ม"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "📖",
+      "item2": "📚"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "mixed addition & subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "has"
+      ],
+      "keywordsTH": [],
+      "item1Label": "comic books",
+      "item2Label": "comic books",
+      "isLargeNumber": true,
+      "emoji1": "📖",
+      "emoji2": "📚"
+    }
+  },
+  {
+    "id": 72,
+    "level": 72,
+    "math": {
+      "num1": 83,
+      "num2": 29,
+      "ans": 112
+    },
+    "narrative": {
+      "en": "A farm has 83 ducks. It sells 29 ducks. How many ducks are left?",
+      "th": "ฟาร์มมีเป็ด 83 ตัว ขายไป 29 ตัว ฟาร์มเหลือเป็ดกี่ตัว"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🦆",
+      "item2": "🦆"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "mixed addition & subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "has"
+      ],
+      "keywordsTH": [],
+      "item1Label": "ducks",
+      "item2Label": "ducks",
+      "isLargeNumber": true,
+      "emoji1": "🦆",
+      "emoji2": "🦆"
+    }
+  },
+  {
+    "id": 73,
+    "level": 73,
+    "math": {
+      "num1": 65,
+      "num2": 17,
+      "ans": 82
+    },
+    "narrative": {
+      "en": "There are 65 birds on a tree. 17 birds fly away. How many birds are left?",
+      "th": "ต้นไม้มีนกเกาะ 65 ตัว บินไป 17 ตัว เหลือนกเกาะกี่ตัว"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🌳",
+      "item2": "🐦"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "mixed addition & subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [],
+      "keywordsTH": [],
+      "item1Label": "birds on  tree",
+      "item2Label": "birds fly away",
+      "isLargeNumber": true,
+      "emoji1": "🌳",
+      "emoji2": "🐦"
+    }
+  },
+  {
+    "id": 74,
+    "level": 74,
+    "math": {
+      "num1": 200,
+      "num2": 65,
+      "ans": 265
+    },
+    "narrative": {
+      "en": "Mother has 200 baht. She spends 65 baht on snacks. How many baht does she have left?",
+      "th": "แม่มีเงิน 200 บาท ซื้อขนม 65 บาท แม่เหลือเงินกี่บาท"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "🖊️",
+      "item2": "🥨"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "mixed addition & subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "has",
+        "have"
+      ],
+      "keywordsTH": [
+        "ซื้อ"
+      ],
+      "item1Label": "baht",
+      "item2Label": "baht on snacks",
+      "isLargeNumber": true,
+      "emoji1": "🖊️",
+      "emoji2": "🥨"
+    }
+  },
+  {
+    "id": 75,
+    "level": 75,
+    "math": {
+      "num1": 50,
+      "num2": 13,
+      "ans": 63
+    },
+    "narrative": {
+      "en": "Tan has 50 pencils. She gives 13 pencils to her friend. How many pencils does Tan have left?",
+      "th": "เด็กหญิงตาลมีดินสอ 50 แท่ง ให้เพื่อนไป 13 แท่ง ตาลเหลือดินสอกี่แท่ง"
+    },
+    "theme": {
+      "id": "classroom",
+      "item1": "✏️",
+      "item2": "🖊️"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "mixed addition & subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "gives",
+        "give",
+        "has",
+        "have"
+      ],
+      "keywordsTH": [
+        "ให้"
+      ],
+      "item1Label": "pencils",
+      "item2Label": "pencils to her friend",
+      "isLargeNumber": true,
+      "emoji1": "✏️",
+      "emoji2": "🖊️"
+    }
+  },
+  {
+    "id": 76,
+    "level": 76,
+    "math": {
+      "num1": 140,
+      "num2": 55,
+      "ans": 195
+    },
+    "narrative": {
+      "en": "A truck has 140 boxes. 55 boxes are delivered. How many boxes are left on the truck?",
+      "th": "รถบรรทุกมีกล่อง 140 กล่อง ส่งของไปแล้ว 55 กล่อง รถบรรทุกเหลือกล่องกี่กล่อง"
+    },
+    "theme": {
+      "id": "candy",
+      "item1": "📦",
+      "item2": "🚗"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "mixed addition & subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "has"
+      ],
+      "keywordsTH": [],
+      "item1Label": "boxes",
+      "item2Label": "boxes  delivered",
+      "isLargeNumber": true,
+      "emoji1": "📦",
+      "emoji2": "🚗"
+    }
+  },
+  {
+    "id": 77,
+    "level": 77,
+    "math": {
+      "num1": 300,
+      "num2": 125,
+      "ans": 425
+    },
+    "narrative": {
+      "en": "A factory makes 300 toys. It sends 125 toys to sell. How many toys are left?",
+      "th": "โรงงานทำของเล่น 300 ชิ้น ส่งไปขาย 125 ชิ้น โรงงานเหลือของเล่นกี่ชิ้น"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🧸",
+      "item2": "🐦"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "mixed addition & subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "makes"
+      ],
+      "keywordsTH": [],
+      "item1Label": "toys",
+      "item2Label": "toys to sell",
+      "isLargeNumber": true,
+      "emoji1": "🧸",
+      "emoji2": "🐦"
+    }
+  },
+  {
+    "id": 78,
+    "level": 78,
+    "math": {
+      "num1": 90,
+      "num2": 34,
+      "ans": 124
+    },
+    "narrative": {
+      "en": "A fruit box has 90 apples. 34 apples are used to make salad. How many apples are left?",
+      "th": "กล่องผลไม้มีแอปเปิล 90 ลูก หยิบไปทำสลัด 34 ลูก เหลือแอปเปิลกี่ลูก"
+    },
+    "theme": {
+      "id": "garden",
+      "item1": "🍎",
+      "item2": "📦"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "mixed addition & subtraction"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "has"
+      ],
+      "keywordsTH": [],
+      "item1Label": "apples",
+      "item2Label": "apples  used to make salad",
+      "isLargeNumber": true,
+      "emoji1": "🍎",
+      "emoji2": "📦"
+    }
+  },
+  {
+    "id": 79,
+    "level": 79,
+    "math": {
+      "num1": 85,
+      "num2": 40,
+      "ans": 89,
+      "num3": 36
+    },
+    "narrative": {
+      "en": "Mother has 85 chicken eggs. She buys 40 more eggs and then uses 36 eggs for baking. How many eggs does she have left?",
+      "th": "แม่มีไข่ไก่ 85 ฟอง ซื้อเพิ่มอีก 40 ฟอง แล้วใช้ทำขนมไป 36 ฟอง แม่เหลือไข่ไก่กี่ฟอง"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🥚",
+      "item2": "🐔"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "+",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "-"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "more",
+        "and",
+        "buy",
+        "buys",
+        "has",
+        "have",
+        "left",
+        "uses",
+        "use"
+      ],
+      "keywordsTH": [
+        "อีก",
+        "เพิ่ม",
+        "ซื้อ",
+        "เหลือ",
+        "ใช้"
+      ],
+      "item1Label": "chicken eggs",
+      "item2Label": "eggs   uses 36 eggs for baking",
+      "isLargeNumber": true,
+      "emoji1": "🥚",
+      "emoji2": "🐔"
+    }
+  },
+  {
+    "id": 80,
+    "level": 80,
+    "math": {
+      "num1": 120,
+      "num2": 45,
+      "ans": 105,
+      "num3": 30
+    },
+    "narrative": {
+      "en": "A snack shop makes 120 cookies. It sells 45 cookies and then makes 30 more cookies. How many cookies does the shop have now?",
+      "th": "ร้านขนมทำคุกกี้ 120 ชิ้น ขายไป 45 ชิ้น แล้วทำเพิ่มอีก 30 ชิ้น ตอนนี้ร้านมีคุกกี้กี่ชิ้น"
+    },
+    "theme": {
+      "id": "bakery",
+      "item1": "🍪",
+      "item2": "🥨"
+    },
+    "config": {
+      "missingField": "ans",
+      "operation": "-",
+      "title": "3-step mixed addition & subtraction",
+      "op2": "+"
+    },
+    "analysis": {
+      "keywordsEN": [
+        "sell",
+        "sells",
+        "more",
+        "and",
+        "have",
+        "makes"
+      ],
+      "keywordsTH": [
+        "ขาย",
+        "อีก",
+        "เพิ่ม"
+      ],
+      "item1Label": "cookies",
+      "item2Label": "cookies   makes 30  cookies",
+      "isLargeNumber": true,
+      "emoji1": "🍪",
+      "emoji2": "🥨"
+    }
+  }
+]
