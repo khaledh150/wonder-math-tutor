@@ -1,0 +1,18 @@
+{
+  "name": "Wonder Kids Math",
+  "short_name": "WonderMath",
+  "description": "A fun math problem solving app for kids",
+  "start_url": "/wonder-math-tutor/",
+  "scope": "/wonder-math-tutor/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#f5f3ff",
+  "theme_color": "#7C3AED",
+  "icons": [
+    {
+      "src": "vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

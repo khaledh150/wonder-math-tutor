@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/wonder-math-tutor/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="theme-color" content="#7C3AED" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <!-- Force external browser on social apps (LINE, Facebook, Instagram in-app browsers) -->
+    <meta property="og:type" content="website" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="manifest" href="/wonder-math-tutor/manifest.json" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <title>Wonder Kids Math</title>
+    <script>
+      // Force open in external browser (LINE, Facebook, Instagram in-app browsers)
+      (function() {
+        var ua = navigator.userAgent || navigator.vendor || window.opera;
+        var isInApp = /FBAN|FBAV|Instagram|Line\/|MicroMessenger|Twitter/i.test(ua);
+        if (isInApp) {
+          // Try intent for Android
+          if (/android/i.test(ua)) {
+            window.location.href = 'intent://' + window.location.host + window.location.pathname + '#Intent;scheme=https;end';
+          }
+          // For iOS in-app browsers, show a message
+          if (/iphone|ipad|ipod/i.test(ua)) {
+            document.addEventListener('DOMContentLoaded', function() {
+              document.body.innerHTML = '<div style="display:flex;align-items:center;justify-content:center;height:100vh;font-family:sans-serif;text-align:center;padding:20px;background:#f5f3ff"><div><h2 style="color:#7C3AED">Wonder Kids Math</h2><p>Please tap the <strong>...</strong> menu and select <strong>"Open in Browser"</strong> for the best experience.</p></div></div>';
+            });
+          }
+        }
+      })();
+    </script>
+    <script type="module" crossorigin src="/wonder-math-tutor/assets/index-DCm4wDpB.js"></script>
+    <link rel="stylesheet" crossorigin href="/wonder-math-tutor/assets/index-DhEme2Va.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
